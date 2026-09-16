@@ -1,0 +1,31 @@
+{
+  "industry": "Automotive",
+  "schema_version": "1.0",
+  "generated": "2026-09-16",
+  "caveat_required_display": "Reflects public-source visibility only, as of September 2026 - not confirmed presence or absence of an actual client engagement. Absence of a named competitor means no public evidence was found, not that no engagement exists.",
+  "note": "Light-touch by design per the storyboard decision - plain per-priority counts, no interactive matrix, no ranking. Companies with a false in a competitor field mean explicit 'no evidence found,' which is itself a real finding, not a gap.",
+  "per_priority_summary": [
+    {"priority": "Software", "companies_researched": 18, "public_signal_found_for_at_least_one_competitor": 18, "no_public_signal_found_for_any": 0},
+    {"priority": "Supply Chain & Mfg", "companies_researched": 21, "public_signal_found_for_at_least_one_competitor": 21, "no_public_signal_found_for_any": 0},
+    {"priority": "Core Engineering Transformation", "companies_researched": 19, "public_signal_found_for_at_least_one_competitor": 18, "no_public_signal_found_for_any": 1},
+    {"priority": "Customer XP", "companies_researched": 13, "public_signal_found_for_at_least_one_competitor": 13, "no_public_signal_found_for_any": 0},
+    {"priority": "NEV and Circular Economy", "companies_researched": 12, "public_signal_found_for_at_least_one_competitor": 10, "no_public_signal_found_for_any": 2}
+  ],
+  "per_company_no_evidence_flags": [
+    {"company": "Bosch", "competitor_with_no_public_signal": "Accenture"},
+    {"company": "Burelle", "competitor_with_no_public_signal": ["IBM", "TCS"]},
+    {"company": "CNH Industrial", "competitor_with_no_public_signal": "TCS"},
+    {"company": "Daimler Trucks", "competitor_with_no_public_signal": "Accenture"},
+    {"company": "Ferrari", "competitor_with_no_public_signal": "TCS"},
+    {"company": "Geely - Volvo Cars", "competitor_with_no_public_signal": "TCS"},
+    {"company": "Isuzu Motors", "competitor_with_no_public_signal": "IBM"},
+    {"company": "KAR Auction Services (OPENLANE)", "competitor_with_no_public_signal": "IBM"},
+    {"company": "Magna International", "competitor_with_no_public_signal": "IBM"},
+    {"company": "Maruti Suzuki", "competitor_with_no_public_signal": "IBM"},
+    {"company": "Michelin", "competitor_with_no_public_signal": "TCS"},
+    {"company": "Penske Automotive", "competitor_with_no_public_signal": "IBM"},
+    {"company": "Subaru", "competitor_with_no_public_signal": "IBM"},
+    {"company": "Valeo", "competitor_with_no_public_signal": "IBM"},
+    {"company": "Volvo Group", "competitor_with_no_public_signal": "TCS"}
+  ]
+}
