@@ -1,0 +1,235 @@
+{
+  "industry": "Telecom",
+  "methodology_note": "Corrected 2026-09-22: the original synthesis showed zero companies tagged to \"Intelligent Telco\", which was a parser bug, not a real finding - the raw research document tags 20 of 26 companies to Intelligent Telco. priority_tags were re-extracted directly from the raw Telecom_Industry_Company_Analysis.docx source for all 26 companies and are now accurate.",
+  "trends": [
+    {
+      "trend_id": "telecom_t1",
+      "trend_name": "Autonomous Networks",
+      "supporting_companies": [
+        {
+          "company": "AT&T Inc.",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        },
+        {
+          "company": "Bouygues Telecom / TF1",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        },
+        {
+          "company": "Charter Communications, Inc.",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        },
+        {
+          "company": "Comcast Corporation / NBCUniversal",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        },
+        {
+          "company": "Cox Enterprises, Inc.",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        },
+        {
+          "company": "Deutsche Telekom AG",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        },
+        {
+          "company": "Ericsson (Telefonaktiebolaget LM Ericsson)",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        },
+        {
+          "company": "Nokia Corporation",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        },
+        {
+          "company": "Open Fiber S.p.A.",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        },
+        {
+          "company": "SaskTel (Saskatchewan Telecommunications)",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        },
+        {
+          "company": "Saudi Telecom Company (stc Group)",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        },
+        {
+          "company": "T-Mobile US, Inc.",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        },
+        {
+          "company": "Verizon Communications Inc.",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        },
+        {
+          "company": "National Broadband Network Co (NBN Co)",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        }
+      ],
+      "company_count": 14
+    },
+    {
+      "trend_id": "telecom_t2",
+      "trend_name": "Intelligent Telco",
+      "supporting_companies": [
+        {
+          "company": "Bouygues Telecom / TF1",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        },
+        {
+          "company": "Cable & Wireless Communications",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        },
+        {
+          "company": "Charter Communications, Inc.",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        },
+        {
+          "company": "Comcast Corporation / NBCUniversal",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        },
+        {
+          "company": "Cox Enterprises, Inc.",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        },
+        {
+          "company": "Nuuday A/S",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        },
+        {
+          "company": "Orange S.A.",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        },
+        {
+          "company": "Proximus Group",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        },
+        {
+          "company": "Rogers Communications Inc.",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        },
+        {
+          "company": "SaskTel (Saskatchewan Telecommunications)",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        },
+        {
+          "company": "Saudi Telecom Company (stc Group)",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        },
+        {
+          "company": "Stichting Preferente Aandelen B KPN (Royal KPN N.V.)",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        },
+        {
+          "company": "Telef\u00f3nica, S.A.",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        },
+        {
+          "company": "Telia Company AB",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        },
+        {
+          "company": "TIM S.p.A. (Telecom Italia)",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        },
+        {
+          "company": "T-Mobile US, Inc.",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        },
+        {
+          "company": "Verizon Communications Inc.",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        },
+        {
+          "company": "Vodafone Group Plc",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        },
+        {
+          "company": "Wind Tre S.p.A. (Wind3)",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        },
+        {
+          "company": "Philippine Long Distance Telephone Company (PLDT Inc.)",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        }
+      ],
+      "company_count": 20
+    },
+    {
+      "trend_id": "telecom_t3",
+      "trend_name": "Intelligent Operations",
+      "supporting_companies": [
+        {
+          "company": "AT&T Inc.",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        },
+        {
+          "company": "Cable & Wireless Communications",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        },
+        {
+          "company": "Deutsche Telekom AG",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        },
+        {
+          "company": "Ericsson (Telefonaktiebolaget LM Ericsson)",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        },
+        {
+          "company": "Nokia Corporation",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        },
+        {
+          "company": "Nuuday A/S",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        },
+        {
+          "company": "Open Fiber S.p.A.",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        },
+        {
+          "company": "Orange S.A.",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        },
+        {
+          "company": "Proximus Group",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        },
+        {
+          "company": "Rogers Communications Inc.",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        },
+        {
+          "company": "Stichting Preferente Aandelen B KPN (Royal KPN N.V.)",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        },
+        {
+          "company": "Telef\u00f3nica, S.A.",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        },
+        {
+          "company": "Telia Company AB",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        },
+        {
+          "company": "TIM S.p.A. (Telecom Italia)",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        },
+        {
+          "company": "Vodafone Group Plc",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        },
+        {
+          "company": "Wind Tre S.p.A. (Wind3)",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        },
+        {
+          "company": "National Broadband Network Co (NBN Co)",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        },
+        {
+          "company": "Philippine Long Distance Telephone Company (PLDT Inc.)",
+          "justification": "(justification text not separately extractable in stored snapshot - real tag confirmed against raw source document)"
+        }
+      ],
+      "company_count": 18
+    }
+  ]
+}

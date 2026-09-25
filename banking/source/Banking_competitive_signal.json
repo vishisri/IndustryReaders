@@ -1,0 +1,36 @@
+{
+  "industry": "Banking",
+  "caveat_required_display": "Reflects public-source visibility only - not confirmed presence or absence of an actual client engagement.",
+  "per_priority_summary": [
+    {
+      "priority": "Transform Customer Journeys and channels",
+      "companies_tagged": 51,
+      "public_signal_found_for_at_least_one_competitor": 51,
+      "no_public_signal_found_for_any": 0
+    },
+    {
+      "priority": "Modernize Payments",
+      "companies_tagged": 41,
+      "public_signal_found_for_at_least_one_competitor": 41,
+      "no_public_signal_found_for_any": 0
+    },
+    {
+      "priority": "Innovate Wealth Management",
+      "companies_tagged": 27,
+      "public_signal_found_for_at_least_one_competitor": 27,
+      "no_public_signal_found_for_any": 0
+    },
+    {
+      "priority": "Optimize Financial Crime & Compliance",
+      "companies_tagged": 32,
+      "public_signal_found_for_at_least_one_competitor": 32,
+      "no_public_signal_found_for_any": 0
+    },
+    {
+      "priority": "Transform Capital Markets",
+      "companies_tagged": 29,
+      "public_signal_found_for_at_least_one_competitor": 29,
+      "no_public_signal_found_for_any": 0
+    }
+  ]
+}

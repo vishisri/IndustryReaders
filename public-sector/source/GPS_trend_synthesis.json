@@ -1,0 +1,707 @@
+{
+  "industry": "GPS",
+  "methodology_note": "Corrected 2026-09-22: the original parse only captured the FIRST 'Priority Tagging:' occurrence per company, but the source research tags priorities separately after each section (leadership, strategic moves, competitor footprint, trend connection) - multiple companies were missing tags that existed later in their own entry. Re-extracted by scanning each company's full source section for every tagging occurrence and taking the union. This is the same class of bug found and fixed in Telecom.",
+  "trends": [
+    {
+      "trend_id": "gps_t1",
+      "trend_name": "AI Impact with strong Data Foundations",
+      "supporting_companies": [
+        {
+          "company": "Arbeids- og sosialdepartementet (Norwegian Ministry of Labour and Social Inclusion)",
+          "justification": "Automated case routing across 1.4 million annual welfare claims"
+        },
+        {
+          "company": "ARIA - Azienda Regionale per l'Innovazione e gli Acquisti S.p.A. (Lombardy, Italy)",
+          "justification": "Automating regional healthcare procurement workflows for 10 million citizens"
+        },
+        {
+          "company": "Australian Government - Department of Health & Aged Care",
+          "justification": "Deploying predictive data analytics across aged care compliance and Medicare claims"
+        },
+        {
+          "company": "BMVg - Bundesministerium der Verteidigung (German Federal Ministry of Defence)",
+          "justification": "Deploying battlefield AI data analytics"
+        },
+        {
+          "company": "Brisbane City Council (Australia)",
+          "justification": "AI-driven smart city traffic management and ratepayer service routing"
+        },
+        {
+          "company": "BMBF - Bundesministerium f\u00fcr Bildung und Forschung (German Ministry of Education and Research)",
+          "justification": "Funding national AI research networks and sovereign quantum computing platforms"
+        },
+        {
+          "company": "BMDV - Bundesministerium f\u00fcr Digitales und Verkehr (German Ministry for Digital and Transport)",
+          "justification": "Managing real-time national transport data portals and autonomous mobility frameworks"
+        },
+        {
+          "company": "BMG - Bundesministerium f\u00fcr Gesundheit (German Federal Ministry of Health)",
+          "justification": "Scaling national electronic patient records across 73 million insured citizens"
+        },
+        {
+          "company": "CEIA (UK Government Security & Intelligence Support)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "DEFRA - Department for Environment, Food & Rural Affairs (UK)",
+          "justification": "AI-driven satellite land monitoring for agricultural subsidy verification"
+        },
+        {
+          "company": "Department for Transport - DfT (UK)",
+          "justification": "Real-time national rail and road network traffic telemetry"
+        },
+        {
+          "company": "Department of Agriculture, Food and the Marine (Ireland / EU)",
+          "justification": "Automated geospatial satellite validation of agricultural subsidy claims"
+        },
+        {
+          "company": "Department of Defence (Australia)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Department of Government Enablement - Abu Dhabi Digital Authority (ADDA, UAE)",
+          "justification": "Deploying GenAI citizen assistants across the TAMM government platform"
+        },
+        {
+          "company": "Department of Justice & Community Safety Victoria (Australia)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "EDGE Group (UAE)",
+          "justification": "Integrating autonomous AI algorithms across unmanned aerial and naval systems"
+        },
+        {
+          "company": "European Union Institutions (European Commission / EU Council / EP)",
+          "justification": "Cross-border EU health and customs data platforms"
+        },
+        {
+          "company": "Foreign, Commonwealth & Development Office - FCDO (UK)",
+          "justification": "AI-driven satellite tracking for overseas disaster response"
+        },
+        {
+          "company": "Forsvarsdepartementet (Norwegian Ministry of Defence)",
+          "justification": "Maritime surveillance data processing in the Arctic"
+        },
+        {
+          "company": "Gemeente Amsterdam (City of Amsterdam, Netherlands)",
+          "justification": "Smart city crowd management algorithms and AI ethics algorithms"
+        },
+        {
+          "company": "Governo de Portugal (Government of Portugal)",
+          "justification": "Automated digital tax and public health case management"
+        },
+        {
+          "company": "Gr\u00e6vstation Anders Hed\u00e9nfalk (Sweden)",
+          "justification": "Automated geospatial GIS mapping for municipal underground utility infrastructure"
+        },
+        {
+          "company": "Minist\u00e8re de l'Agriculture et de la Souverainet\u00e9 Alimentaire / Transition \u00c9cologique (France)",
+          "justification": "AI geospatial satellite analysis for environmental risk tracking and agricultural CAP payments"
+        },
+        {
+          "company": "Minist\u00e8re de la Sant\u00e9, de la Jeunesse, des Sports et de la Vie Associative (France)",
+          "justification": "Scaling 'Mon Espace Sant\u00e9' digital record access and health data hub analytics"
+        },
+        {
+          "company": "Minist\u00e8re des Arm\u00e9es (French Ministry of the Armed Forces)",
+          "justification": "Deploying battlefield image processing AI across French armed forces"
+        },
+        {
+          "company": "Ministerie van Defensie (Dutch Ministry of Defence)",
+          "justification": "Deploying AI sensor fusion across naval and army units"
+        },
+        {
+          "company": "Ministerie van Economische Zaken en Klimaat - EZK (Dutch Ministry of Economic Affairs)",
+          "justification": "Funding Dutch microelectronics and sovereign European AI compute hubs"
+        },
+        {
+          "company": "Ministerie van Volksgezondheid, Welzijn en Sport - VWS (Dutch Ministry of Health)",
+          "justification": "Standardizing electronic health record exchange across hospitals and general practitioners"
+        },
+        {
+          "company": "Ministerio de Asuntos Econ\u00f3micos y Transformaci\u00f3n Digital (Spain)",
+          "justification": "Funding national supercomputing and Spanish large language model development - AESIA"
+        },
+        {
+          "company": "Ministry of Defence - MoD (UK)",
+          "justification": "Deploying AI sensor fusion across Royal Navy and RAF assets"
+        },
+        {
+          "company": "National Assembly for Wales / Senedd Cymru (UK / Wales)",
+          "justification": "Automated bilingual Welsh/English speech translation algorithms for parliamentary record transcription"
+        },
+        {
+          "company": "National Highways (UK)",
+          "justification": "AI-driven automated radar incident detection and smart highway traffic telemetry"
+        },
+        {
+          "company": "Region Sk\u00e5ne (Sweden)",
+          "justification": "Predictive AI diagnostics in regional radiology"
+        },
+        {
+          "company": "Statens Vegvesen (Norwegian Public Roads Administration)",
+          "justification": "Automated camera image analytics for road tolling and winter road friction monitoring"
+        },
+        {
+          "company": "Swedish Defense - F\u00f6rsvarsmakten / F\u00f6rsvarsdepartementet (Sweden)",
+          "justification": "Radar data processing in Baltic Sea defense"
+        },
+        {
+          "company": "NSW Government (New South Wales, Australia)",
+          "justification": "Deploying GenAI case assistants across Service NSW digital portals"
+        },
+        {
+          "company": "Arbetsf\u00f6rmedlingen (Swedish Public Employment Service)",
+          "justification": "Machine learning job-matching algorithms connecting job seekers with employer vacancies"
+        },
+        {
+          "company": "BMF - Bundesministerium der Finanzen (German Federal Ministry of Finance)",
+          "justification": "AI-driven tax fraud detection"
+        },
+        {
+          "company": "BMAS - Bundesministerium f\u00fcr Arbeit und Soziales (German Ministry of Labour and Social Affairs)",
+          "justification": "Automated social benefit eligibility routing"
+        },
+        {
+          "company": "BMFSFJ - Bundesministerium f\u00fcr Familie, Senioren, Frauen und Jugend (Germany)",
+          "justification": "Automated family income calculation algorithms"
+        },
+        {
+          "company": "Department for Work and Pensions - DWP (UK)",
+          "justification": "Deploying machine learning algorithms to detect organized benefit fraud and error"
+        },
+        {
+          "company": "Finansdepartementet (Ministry of Finance, Sweden)",
+          "justification": "Predictive macro-economic modeling and automated national tax data integration"
+        },
+        {
+          "company": "France Travail (Formerly P\u00f4le Emploi, France)",
+          "justification": "GenAI-powered job-matching assistant 'Mon Assistant Virtuel' connecting job seekers with vacancies"
+        },
+        {
+          "company": "HM Revenue & Customs - HMRC (UK)",
+          "justification": "AI automated tax evasion risk scoring"
+        },
+        {
+          "company": "Minist\u00e8re de l'\u00c9conomie, des Finances et de la Souverainet\u00e9 Industrielle et Num\u00e9rique (France)",
+          "justification": "AI image analysis using satellite imagery to detect undeclared residential swimming pools and tax fraud - Project 'Foncier Innover'"
+        },
+        {
+          "company": "Flemish Government (Belgium)",
+          "justification": "Automated digital citizen wallet 'Mijn Burgerprofiel'"
+        },
+        {
+          "company": "Ministerie van Financi\u00ebn (Dutch Ministry of Finance)",
+          "justification": "Automated real-time customs tax risk verification"
+        },
+        {
+          "company": "S\u00e9curit\u00e9 Sociale (France)",
+          "justification": "'carte Vitale apic' digital mobile app deployment"
+        },
+        {
+          "company": "South Carolina Department of Employment & Workforce - SCUBI (USA)",
+          "justification": "AI-driven unemployment fraud prevention analytics"
+        },
+        {
+          "company": "Swisscom Schweiz (Public Sector & Welfare Infrastructure Division, Switzerland)",
+          "justification": "AI-assisted municipal workflow processing"
+        },
+        {
+          "company": "SZW / UWV - Employee Insurance Agency & Social Affairs (Netherlands)",
+          "justification": "Automated employment disability claim routing"
+        },
+        {
+          "company": "Mayor's Office for Policing and Crime - MOPAC / Metropolitan Police (UK)",
+          "justification": "Facial recognition video analytics and predictive crime analytics across London"
+        },
+        {
+          "company": "S\u00e9curit\u00e9 Int\u00e9rieure / Minist\u00e8re de l'Int\u00e9rieur (France)",
+          "justification": "AI-driven video surveillance analytics"
+        }
+      ],
+      "company_count": 53
+    },
+    {
+      "trend_id": "gps_t2",
+      "trend_name": "Sovereignty & Resilience for Cloud and AI",
+      "supporting_companies": [
+        {
+          "company": "Arbeids- og sosialdepartementet (Norwegian Ministry of Labour and Social Inclusion)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "ARIA - Azienda Regionale per l'Innovazione e gli Acquisti S.p.A. (Lombardy, Italy)",
+          "justification": "Securing regional public health data"
+        },
+        {
+          "company": "Australian Government - Department of Health & Aged Care",
+          "justification": "Securing digital health records for 26 million Australians"
+        },
+        {
+          "company": "BMI - Bundesministerium des Innern und f\u00fcr Heimat (German Federal Ministry of the Interior)",
+          "justification": "Executing Germany's Federal Cloud Strategy and sovereign identity management"
+        },
+        {
+          "company": "BMVg - Bundesministerium der Verteidigung (German Federal Ministry of Defence)",
+          "justification": "Hardening military command networks and sovereign cloud communications"
+        },
+        {
+          "company": "BMBF - Bundesministerium f\u00fcr Bildung und Forschung (German Ministry of Education and Research)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "BMDV - Bundesministerium f\u00fcr Digitales und Verkehr (German Ministry for Digital and Transport)",
+          "justification": "Securing critical transport infrastructure networks"
+        },
+        {
+          "company": "BMG - Bundesministerium f\u00fcr Gesundheit (German Federal Ministry of Health)",
+          "justification": "Enforcing strict health data privacy and sovereign encryption"
+        },
+        {
+          "company": "Cabinet Office (UK)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "CEIA (UK Government Security & Intelligence Support)",
+          "justification": "Delivering secure intelligence data architectures and national cyber defense frameworks"
+        },
+        {
+          "company": "Dataport A\u00f6R (Germany)",
+          "justification": "Operating open-source sovereign cloud platforms for German state administrations"
+        },
+        {
+          "company": "Department for Transport - DfT (UK)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Department of Defence (Australia)",
+          "justification": "Building secure top-secret defense cloud networks and zero-trust cyber defense"
+        },
+        {
+          "company": "Department of Government Enablement - Abu Dhabi Digital Authority (ADDA, UAE)",
+          "justification": "Securing Abu Dhabi sovereign cloud networks"
+        },
+        {
+          "company": "Department of Justice & Community Safety Victoria (Australia)",
+          "justification": "Securing police and judicial evidence databases"
+        },
+        {
+          "company": "Die Landesregierung NRW (State Government of North Rhine-Westphalia, Germany)",
+          "justification": "Building secure NRW state cloud data centers"
+        },
+        {
+          "company": "Digital Agency (Japan)",
+          "justification": "Managing sovereign cloud security for national digital IDs"
+        },
+        {
+          "company": "EDGE Group (UAE)",
+          "justification": "Sovereign defense electronic warfare and secure communications manufacturing"
+        },
+        {
+          "company": "\u00c9tat Belge (Federal Government of Belgium)",
+          "justification": "Implementing sovereign European cloud security frameworks"
+        },
+        {
+          "company": "European Union Institutions (European Commission / EU Council / EP)",
+          "justification": "Deploying sovereign European cloud infrastructure under EU AI Act and NIS2 security directives"
+        },
+        {
+          "company": "Foreign, Commonwealth & Development Office - FCDO (UK)",
+          "justification": "Operating secure encrypted global communications networks across 280+ overseas diplomatic posts"
+        },
+        {
+          "company": "Forsvarsdepartementet (Norwegian Ministry of Defence)",
+          "justification": "Hardening High North tactical military communication systems and sovereign defense cloud"
+        },
+        {
+          "company": "Generalitat de Catalunya (Government of Catalonia, Spain)",
+          "justification": "Building secure regional public cloud data centers"
+        },
+        {
+          "company": "Governo de Portugal (Government of Portugal)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Italy Government (Central Italian Ministries / AGID)",
+          "justification": "Migrating central Italian ministry databases to the Polo Strategico Nazionale sovereign cloud"
+        },
+        {
+          "company": "Minist\u00e8re de la Sant\u00e9, de la Jeunesse, des Sports et de la Vie Associative (France)",
+          "justification": "Enforcing Health Data Hub European sovereign cloud security"
+        },
+        {
+          "company": "Minist\u00e8re des Arm\u00e9es (French Ministry of the Armed Forces)",
+          "justification": "Building sovereign defense AI agency AMIAD and classified defense cloud networks"
+        },
+        {
+          "company": "Ministerie van Buitenlandse Zaken - BUZA (Dutch Ministry of Foreign Affairs)",
+          "justification": "Operating secure sovereign diplomatic communication platforms worldwide"
+        },
+        {
+          "company": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties - BZK (Dutch Ministry of the Interior)",
+          "justification": "Enforcing the Dutch Government Cloud Policy and securing DigiD citizen digital authentication"
+        },
+        {
+          "company": "Ministerie van Defensie (Dutch Ministry of Defence)",
+          "justification": "Hardening military command networks and building sovereign defense cloud data centers"
+        },
+        {
+          "company": "Ministerie van Economische Zaken en Klimaat - EZK (Dutch Ministry of Economic Affairs)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Ministerie van Volksgezondheid, Welzijn en Sport - VWS (Dutch Ministry of Health)",
+          "justification": "Securing patient health privacy under Wegiz legislation"
+        },
+        {
+          "company": "Ministerio de Asuntos Econ\u00f3micos y Transformaci\u00f3n Digital (Spain)",
+          "justification": "Deploying Spanish national cybersecurity strategy"
+        },
+        {
+          "company": "Ministry of Defence - MoD (UK)",
+          "justification": "Operating secure military defense cloud platforms, high-assurance satellite encryption, and military AI"
+        },
+        {
+          "company": "National Highways (UK)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Scottish Government (UK / Scotland)",
+          "justification": "Operating secure Scottish public sector cloud environments"
+        },
+        {
+          "company": "State of Georgia (USA)",
+          "justification": "Operating GTA's Georgia GovCloud and state cyber defense operations center"
+        },
+        {
+          "company": "State of Texas (USA)",
+          "justification": "Managing DIR's Texas Private Cloud data centers and state cyber command"
+        },
+        {
+          "company": "Swedish Defense - F\u00f6rsvarsmakten / F\u00f6rsvarsdepartementet (Sweden)",
+          "justification": "Operating secure military defense cloud networks and NATO tactical datalink interoperability"
+        },
+        {
+          "company": "The New Government (Europe Cluster / Regional Public Entities)",
+          "justification": "Deploying regional European sovereign cloud hosting"
+        },
+        {
+          "company": "Valtori - Government ICT Centre (Finland)",
+          "justification": "Operating Finland's secure government cloud 'KSTI' and national public sector cyber defense"
+        },
+        {
+          "company": "BMF - Bundesministerium der Finanzen (German Federal Ministry of Finance)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "BMAS - Bundesministerium f\u00fcr Arbeit und Soziales (German Ministry of Labour and Social Affairs)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "BMFSFJ - Bundesministerium f\u00fcr Familie, Senioren, Frauen und Jugend (Germany)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Finansdepartementet (Ministry of Finance, Sweden)",
+          "justification": "Securing national financial and budget databases"
+        },
+        {
+          "company": "HM Revenue & Customs - HMRC (UK)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Flemish Government (Belgium)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "FOD / SPF Government (Federal Public Services, Belgium)",
+          "justification": "Securing federal public data center infrastructure"
+        },
+        {
+          "company": "Ministerie van Financi\u00ebn (Dutch Ministry of Finance)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Swisscom Schweiz (Public Sector & Welfare Infrastructure Division, Switzerland)",
+          "justification": "Operating Swisscom Sovereign Cloud and secure health data hosting for Swiss public authorities"
+        },
+        {
+          "company": "SZW / UWV - Employee Insurance Agency & Social Affairs (Netherlands)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Home Office + Hydrogen Security Programme (UK)",
+          "justification": "Operating the Law Enforcement Data Service and Emergency Services Network"
+        },
+        {
+          "company": "Mayor's Office for Policing and Crime - MOPAC / Metropolitan Police (UK)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Ministerie van Justitie en Veiligheid - JenV (Dutch Ministry of Justice and Security)",
+          "justification": "Operating secure National Police cloud databases and encrypted emergency communications"
+        },
+        {
+          "company": "S\u00e9curit\u00e9 Int\u00e9rieure / Minist\u00e8re de l'Int\u00e9rieur (France)",
+          "justification": "Building the 'R\u00e9seau Radio du Futur' 4G/5G sovereign broadband security network"
+        }
+      ],
+      "company_count": 55
+    },
+    {
+      "trend_id": "gps_t3",
+      "trend_name": "AI-Powered Legacy Modernization",
+      "supporting_companies": [
+        {
+          "company": "Arbeids- og sosialdepartementet (Norwegian Ministry of Labour and Social Inclusion)",
+          "justification": "Decoupling legacy welfare mainframes to automate pension and unemployment benefit processing"
+        },
+        {
+          "company": "ARIA - Azienda Regionale per l'Innovazione e gli Acquisti S.p.A. (Lombardy, Italy)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Australian Government - Department of Health & Aged Care",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "BMI - Bundesministerium des Innern und f\u00fcr Heimat (German Federal Ministry of the Interior)",
+          "justification": "Digitizing federal administrative registers"
+        },
+        {
+          "company": "Brisbane City Council (Australia)",
+          "justification": "Cloud migration of municipal asset management databases"
+        },
+        {
+          "company": "BMBF - Bundesministerium f\u00fcr Bildung und Forschung (German Ministry of Education and Research)",
+          "justification": "Digitizing national grant application portals"
+        },
+        {
+          "company": "BMDV - Bundesministerium f\u00fcr Digitales und Verkehr (German Ministry for Digital and Transport)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "BMG - Bundesministerium f\u00fcr Gesundheit (German Federal Ministry of Health)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Cabinet Office (UK)",
+          "justification": "Driving cross-government legacy IT retirement and GOV.UK portal upgrades"
+        },
+        {
+          "company": "CEIA (UK Government Security & Intelligence Support)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Dataport A\u00f6R (Germany)",
+          "justification": "Migrating municipal legacy software to cloud microservices"
+        },
+        {
+          "company": "DEFRA - Department for Environment, Food & Rural Affairs (UK)",
+          "justification": "Modernizing 30-year-old environmental risk databases"
+        },
+        {
+          "company": "Department for Transport - DfT (UK)",
+          "justification": "Migrating DVLA driver and vehicle licensing mainframes to cloud native engines"
+        },
+        {
+          "company": "Department of Agriculture, Food and the Marine (Ireland / EU)",
+          "justification": "Upgrading livestock traceability databases"
+        },
+        {
+          "company": "Department of Defence (Australia)",
+          "justification": "Consolidating legacy defense logistics SAP instances"
+        },
+        {
+          "company": "Department of Justice & Community Safety Victoria (Australia)",
+          "justification": "Modernizing legacy court registry databases and correctional management software"
+        },
+        {
+          "company": "Die Landesregierung NRW (State Government of North Rhine-Westphalia, Germany)",
+          "justification": "Modernizing state administration register databases under Online Access Act mandates"
+        },
+        {
+          "company": "Digital Agency (Japan)",
+          "justification": "Standardizing municipal core IT systems across 1,700 Japanese local governments onto 'Government Cloud'"
+        },
+        {
+          "company": "\u00c9tat Belge (Federal Government of Belgium)",
+          "justification": "Modernizing federal administrative databases and digital citizen portals"
+        },
+        {
+          "company": "Foreign, Commonwealth & Development Office - FCDO (UK)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Forsvarsdepartementet (Norwegian Ministry of Defence)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Gemeente Amsterdam (City of Amsterdam, Netherlands)",
+          "justification": "Decoupling municipal administrative databases"
+        },
+        {
+          "company": "Generalitat de Catalunya (Government of Catalonia, Spain)",
+          "justification": "Cloud migration of regional public healthcare and educational databases"
+        },
+        {
+          "company": "Governo de Portugal (Government of Portugal)",
+          "justification": "Modernizing civil registry databases and expanding 'Chave M\u00f3vel Digital' citizen sign-in"
+        },
+        {
+          "company": "Gr\u00e6vstation Anders Hed\u00e9nfalk (Sweden)",
+          "justification": "Modernizing municipal permit tracking databases"
+        },
+        {
+          "company": "Italy Government (Central Italian Ministries / AGID)",
+          "justification": "Decoupling legacy civil registries under PNRR Mission 1"
+        },
+        {
+          "company": "Minist\u00e8re de l'Agriculture et de la Souverainet\u00e9 Alimentaire / Transition \u00c9cologique (France)",
+          "justification": "Upgrading legacy farm register databases"
+        },
+        {
+          "company": "Minist\u00e8re de la Sant\u00e9, de la Jeunesse, des Sports et de la Vie Associative (France)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Ministerie van Buitenlandse Zaken - BUZA (Dutch Ministry of Foreign Affairs)",
+          "justification": "Upgrading consular visa processing engines to cloud microservices"
+        },
+        {
+          "company": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties - BZK (Dutch Ministry of the Interior)",
+          "justification": "Modernizing central civil registration databases"
+        },
+        {
+          "company": "Ministerie van Defensie (Dutch Ministry of Defence)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Ministerie van Economische Zaken en Klimaat - EZK (Dutch Ministry of Economic Affairs)",
+          "justification": "Digitizing business grant application engines"
+        },
+        {
+          "company": "Ministerie van Volksgezondheid, Welzijn en Sport - VWS (Dutch Ministry of Health)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "National Assembly for Wales / Senedd Cymru (UK / Wales)",
+          "justification": "Modernizing parliamentary voting and document databases"
+        },
+        {
+          "company": "National Highways (UK)",
+          "justification": "Cloud migration of national road asset management databases"
+        },
+        {
+          "company": "Region Sk\u00e5ne (Sweden)",
+          "justification": "Migrating regional hospital legacy systems to the unified Millennium electronic health record platform"
+        },
+        {
+          "company": "Scottish Government (UK / Scotland)",
+          "justification": "Cloud-native core architecture for Social Security Scotland benefit processing"
+        },
+        {
+          "company": "State of Georgia (USA)",
+          "justification": "Mainframe decoupling across Georgia Department of Human Services"
+        },
+        {
+          "company": "State of Texas (USA)",
+          "justification": "Mainframe modernization across Texas Health and Human Services Commission"
+        },
+        {
+          "company": "Statens Vegvesen (Norwegian Public Roads Administration)",
+          "justification": "Decoupling national vehicle registry mainframes"
+        },
+        {
+          "company": "The New Government (Europe Cluster / Regional Public Entities)",
+          "justification": "Building greenfield cloud-native public administration platforms"
+        },
+        {
+          "company": "Valtori - Government ICT Centre (Finland)",
+          "justification": "Standardizing central agency IT systems"
+        },
+        {
+          "company": "NSW Government (New South Wales, Australia)",
+          "justification": "Cloud migration of state revenue and land registry databases"
+        },
+        {
+          "company": "Arbetsf\u00f6rmedlingen (Swedish Public Employment Service)",
+          "justification": "Cloud migration of legacy unemployment benefit engines"
+        },
+        {
+          "company": "BMF - Bundesministerium der Finanzen (German Federal Ministry of Finance)",
+          "justification": "Executing the multi-state 'KONSENS' unified tax software modernization project"
+        },
+        {
+          "company": "BMAS - Bundesministerium f\u00fcr Arbeit und Soziales (German Ministry of Labour and Social Affairs)",
+          "justification": "Modernizing pension and social transfer calculation engines across German social security"
+        },
+        {
+          "company": "BMFSFJ - Bundesministerium f\u00fcr Familie, Senioren, Frauen und Jugend (Germany)",
+          "justification": "Cloud migration of 'Elterngeld Digital' family benefit engines"
+        },
+        {
+          "company": "Department for Work and Pensions - DWP (UK)",
+          "justification": "Migrating legacy VME mainframes to cloud microservices"
+        },
+        {
+          "company": "Finansdepartementet (Ministry of Finance, Sweden)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "France Travail (Formerly P\u00f4le Emploi, France)",
+          "justification": "Decoupling mainframes to unify employment benefit databases across regional offices"
+        },
+        {
+          "company": "HM Revenue & Customs - HMRC (UK)",
+          "justification": "Decoupling 40-year-old legacy mainframes to cloud-native microservices under the Securing Customs & Tax Architecture program"
+        },
+        {
+          "company": "Minist\u00e8re de l'\u00c9conomie, des Finances et de la Souverainet\u00e9 Industrielle et Num\u00e9rique (France)",
+          "justification": "Modernizing DGFiP tax processing mainframes"
+        },
+        {
+          "company": "Flemish Government (Belgium)",
+          "justification": "Building the 'Vlaamse Digitalisering' cloud architecture and unifying municipal databases"
+        },
+        {
+          "company": "FOD / SPF Government (Federal Public Services, Belgium)",
+          "justification": "Cloud migration of FOD Financi\u00ebn tax processing engines and electronic invoicing implementation"
+        },
+        {
+          "company": "Ministerie van Financi\u00ebn (Dutch Ministry of Finance)",
+          "justification": "Decoupling legacy mainframes at Belastingdienst tax processing centers"
+        },
+        {
+          "company": "S\u00e9curit\u00e9 Sociale (France)",
+          "justification": "Cloud migration of national healthcare and pension calculation databases"
+        },
+        {
+          "company": "South Carolina Department of Employment & Workforce - SCUBI (USA)",
+          "justification": "Operating and upgrading the multi-state SCUBI cloud-native unemployment benefit engine"
+        },
+        {
+          "company": "Swisscom Schweiz (Public Sector & Welfare Infrastructure Division, Switzerland)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "SZW / UWV - Employee Insurance Agency & Social Affairs (Netherlands)",
+          "justification": "Decoupling UWV's legacy mainframes to cloud microservices under the 'Vernieuwing Dienstverlening' plan"
+        },
+        {
+          "company": "Home Office + Hydrogen Security Programme (UK)",
+          "justification": "Replacing the legacy Police National Computer mainframe"
+        },
+        {
+          "company": "Mayor's Office for Policing and Crime - MOPAC / Metropolitan Police (UK)",
+          "justification": "Cloud migration of Met police custody and evidence databases"
+        },
+        {
+          "company": "Ministerie van Justitie en Veiligheid - JenV (Dutch Ministry of Justice and Security)",
+          "justification": "Modernizing judicial court registry software"
+        }
+      ],
+      "company_count": 62
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "industry": "Life Sciences",
+  "trends": [
+    {
+      "id": "t1",
+      "name": "Capacity, supply resilience and digitally enabled manufacturing",
+      "one_line_so_what": "Capacity is being treated as a strategic growth constraint rather than a back-office issue.",
+      "direction": "accelerating",
+      "current_readout": "Capacity is being treated as a strategic growth constraint rather than a back-office issue. Greenfield investment, CDMO expansion, plasma/manufacturing productivity and digitally controlled quality are increasingly tied directly to revenue availability and launch readiness.",
+      "financial_reality_check": "The latest cycle adds clearer financial proof: Lilly tied $4.5bn to Indiana capacity, Lonza showed growth projects contributing to 16% CER sales growth and a 4.4pp margin increase, while TCS positions at BD and J&J show SIs moving deeper into plant-floor quality and IoT.",
+      "supporting_companies": [
+        "C.H. BOEHRINGER SOHN AG & CO. KG",
+        "ELI LILLY AND COMPANY",
+        "FRESENIUS",
+        "JOHNSON & JOHNSON",
+        "LONZA GROUP AG",
+        "NOVO NORDISK",
+        "UCB PHARMA SA"
+      ],
+      "complicating_companies": [
+        "BECTON DICKINSON AND COMPANY",
+        "CSL LIMITED",
+        "MERCK",
+        "NOVARTIS",
+        "PHILIPS",
+        "TERUMO CORPORATION"
+      ],
+      "contradicting_companies": [],
+      "priority_tags": [
+        "Accelerated Manufacturing Scale-up in Pharma"
+      ]
+    },
+    {
+      "id": "t2",
+      "name": "R&D acceleration through portfolio concentration, AI and external innovation",
+      "one_line_so_what": "Companies are concentrating capital on differentiated late-stage assets, acquiring pipelines, using AI/data to shorten development, and stopping lower-return programs earlier.",
+      "direction": "steady",
+      "current_readout": "Companies are concentrating capital on differentiated late-stage assets, acquiring pipelines, using AI/data to shorten development, and stopping lower-return programs earlier.",
+      "financial_reality_check": "The cycle moved from broad digital ambition to measurable portfolio actions: AbbVie committed about $10.9bn for Apogee, GSK paired \u00a31.9bn savings with more than 20 Phase III starts, Sanofi reprioritized amlitelimab, and Accenture reported trial acceleration at BMS.",
+      "supporting_companies": [
+        "BOSTON SCIENTIFIC",
+        "C.H. BOEHRINGER SOHN AG & CO. KG",
+        "ELI LILLY AND COMPANY",
+        "GSK - GLAXOSMITHKLINE",
+        "JOHNSON & JOHNSON",
+        "NOVO NORDISK",
+        "ROCHE",
+        "SERVIER LABORATORIES",
+        "SONOVA AG",
+        "UCB PHARMA SA"
+      ],
+      "complicating_companies": [
+        "ABBVIE, INC.",
+        "AMGEN",
+        "ASTRAZENECA",
+        "BAYER",
+        "BRISTOL-MYERS SQUIBB COMPANY INC",
+        "MERCK",
+        "NOVARTIS",
+        "SANOFI",
+        "SMITH & NEPHEW UK LIMITED",
+        "SYNGENTA",
+        "TERUMO CORPORATION"
+      ],
+      "contradicting_companies": [],
+      "priority_tags": [
+        "Accelerated Pharma R&D"
+      ]
+    },
+    {
+      "id": "t3",
+      "name": "Integrated launch, commercial and patient-access execution",
+      "one_line_so_what": "Growth is increasingly determined by coordinated launch execution, patient activation, reimbursement, regional channel performance and connected services rather than product approval alone.",
+      "direction": "steady",
+      "current_readout": "Growth is increasingly determined by coordinated launch execution, patient activation, reimbursement, regional channel performance and connected services rather than product approval alone.",
+      "financial_reality_check": "The latest evidence is more financially polarized: Sanofi, J&J and Abbott converted launches into material growth, while Inspire, GN and Smith+Nephew launched corrective commercial programs after reimbursement, channel or adoption weakness.",
+      "supporting_companies": [
+        "ABBOTT LABORATORIES INC",
+        "BOSTON SCIENTIFIC",
+        "C.H. BOEHRINGER SOHN AG & CO. KG",
+        "ELI LILLY AND COMPANY",
+        "GN STORE NORD A/S",
+        "JOHNSON & JOHNSON",
+        "NOVO NORDISK",
+        "ROCHE",
+        "SERVIER LABORATORIES",
+        "SONOVA AG",
+        "UCB PHARMA SA"
+      ],
+      "complicating_companies": [
+        "ABBVIE, INC.",
+        "ASTRAZENECA",
+        "COMPAGNIE MERIEUX ALLIANCE",
+        "GE HEALTHCARE",
+        "Inspire Medical",
+        "NOVARTIS",
+        "PHILIPS",
+        "SANOFI",
+        "SMITH & NEPHEW UK LIMITED",
+        "SYNGENTA",
+        "TERUMO CORPORATION"
+      ],
+      "contradicting_companies": [],
+      "priority_tags": [
+        "Integrated Marketing and Sales for Pharma & MedTech"
+      ]
+    },
+    {
+      "id": "t4",
+      "name": "Margin-funded reinvention and operating-model simplification",
+      "one_line_so_what": "Life-sciences leaders are using savings, restructuring and portfolio simplification to protect margins while funding R&D, launches and digital transformation.",
+      "direction": "steady",
+      "current_readout": "Life-sciences leaders are using savings, restructuring and portfolio simplification to protect margins while funding R&D, launches and digital transformation.",
+      "financial_reality_check": "The cycle adds explicit reinvestment mechanisms: GSK targets \u00a31.9bn annual savings, Inspire seeks to redeploy about $30m annually, BD is reorganizing around four segments, and Fresenius upgraded EPS guidance while scaling Rejuvenate.",
+      "supporting_companies": [
+        "FRESENIUS",
+        "GN STORE NORD A/S",
+        "GSK - GLAXOSMITHKLINE"
+      ],
+      "complicating_companies": [
+        "BAYER",
+        "BECTON DICKINSON AND COMPANY",
+        "CSL LIMITED",
+        "Inspire Medical",
+        "PHILIPS",
+        "SANOFI",
+        "SMITH & NEPHEW UK LIMITED"
+      ],
+      "contradicting_companies": [],
+      "priority_tags": [
+        "Accelerated Manufacturing Scale-up in Pharma",
+        "Integrated Marketing and Sales for Pharma & MedTech"
+      ]
+    },
+    {
+      "id": "t5",
+      "name": "Data, cloud and AI becoming the operating backbone",
+      "one_line_so_what": "Cloud, AI, connected-device, analytics and workflow platforms are moving from pilots into cross-functional operating models spanning R&D, manufacturing, supply chain and commercialization.",
+      "direction": "steady",
+      "current_readout": "Cloud, AI, connected-device, analytics and workflow platforms are moving from pilots into cross-functional operating models spanning R&D, manufacturing, supply chain and commercialization.",
+      "financial_reality_check": "Competitor evidence makes the shift tangible: Accenture implemented 30+ GenAI solutions at BMS; TCS runs broad IT/application transformations at GE HealthCare and regulated workflows at AstraZeneca; IBM automated Boston Scientific replenishment.",
+      "supporting_companies": [
+        "BOSTON SCIENTIFIC",
+        "JOHNSON & JOHNSON",
+        "NOVO NORDISK",
+        "ROCHE"
+      ],
+      "complicating_companies": [
+        "ASTRAZENECA",
+        "BAYER",
+        "BECTON DICKINSON AND COMPANY",
+        "BRISTOL-MYERS SQUIBB COMPANY INC",
+        "COMPAGNIE MERIEUX ALLIANCE",
+        "GE HEALTHCARE",
+        "MERCK",
+        "NOVARTIS",
+        "SANOFI"
+      ],
+      "contradicting_companies": [],
+      "priority_tags": [
+        "Accelerated Pharma R&D",
+        "Accelerated Manufacturing Scale-up in Pharma",
+        "Integrated Marketing and Sales for Pharma & MedTech"
+      ]
+    }
+  ],
+  "methodology_note": "Extracted verbatim from Appendix A (Prompt 5 - Trend Connection & Evolution) in Life_Sciences_Complete_Research.docx (2026-09-24). This replaces the earlier roster-only file - these are 5 real, evidence-graded trends with genuine supporting/complicating splits derived from the source document's own per-company verdict language, not a restatement of the 3 official priorities. Direction field defaulted to 'accelerating' for all 5 because the source document does not label an explicit direction per trend (it is a first-cycle baseline with no prior-cycle comparison per its own Appendix A note) - flag for a follow-up pass if a more nuanced accelerating/steady/declining read is wanted. Direction (accelerating/steady) was inferred by me, not stated in the source document, based on whether supporting companies outnumber complicating ones for that trend - flagged as an inference, not a sourced fact."
+}

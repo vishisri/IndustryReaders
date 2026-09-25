@@ -1,0 +1,25 @@
+{
+  "industry": "Life Sciences",
+  "caveat_required_display": "Reflects public-source visibility only - not confirmed presence or absence of an actual client engagement.",
+  "methodology_note": "Rebuilt 2026-09-24 from corrected Life_Sciences_companies.json after fixing a fuzzy-matching bug that had silently zeroed out the Accelerated Manufacturing Scale-up in Pharma tag (source doc uses different capitalization/wording than the official taxonomy string).",
+  "per_priority_summary": [
+    {
+      "priority": "Accelerated Pharma R&D",
+      "companies_tagged": 27,
+      "public_signal_found_for_at_least_one_competitor": 8,
+      "no_public_signal_found_for_any": 19
+    },
+    {
+      "priority": "Accelerated Manufacturing Scale-up in Pharma",
+      "companies_tagged": 9,
+      "public_signal_found_for_at_least_one_competitor": 0,
+      "no_public_signal_found_for_any": 9
+    },
+    {
+      "priority": "Integrated Marketing and Sales for Pharma & MedTech",
+      "companies_tagged": 28,
+      "public_signal_found_for_at_least_one_competitor": 8,
+      "no_public_signal_found_for_any": 20
+    }
+  ]
+}

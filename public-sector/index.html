@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Public Sector Industry Intelligence Portal — trends, competitive signal, and account-level depth.">
+  <meta name="referrer" content="no-referrer">
+  <title>Trends | Public Sector Industry Intelligence</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Newsreader:ital,wght@0,300;0,400;0,600;1,300;1,400&display=swap">
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body data-page="trends" data-industry="Public Sector">
+  <div class="ambient ambient-1"></div>
+  <div class="ambient ambient-2"></div>
+  <div class="ambient ambient-3"></div>
+  <header class="site-header">
+    <div class="topline"></div>
+    <div class="header-inner">
+      <span class="capgemini-brand" aria-label="Capgemini">
+        <img src="https://logo.clearbit.com/capgemini.com?size=64" alt="" width="24" height="24" loading="lazy" onerror="this.outerHTML='<span class=\'cap-fallback\'>Capgemini</span>'">
+      </span>
+      <a class="hub-back" href="../index.html" aria-label="Back to Industry Intelligence Hub">
+        <span class="hub-back-arrow" aria-hidden="true">&#8592;</span>
+        <span class="hub-back-label">All Industries</span>
+      </a>
+      <a class="brand" href="index.html" aria-label="Public Sector home">
+        <span class="brand-mark">PS</span>
+        <span class="brand-copy">
+          <span class="brand-name">Public Sector Intelligence</span>
+          <span class="brand-sub">Industry Intelligence</span>
+        </span>
+      </a>
+      <label class="global-search">
+        <span class="search-icon" aria-hidden="true"></span>
+        <input class="search-input" id="global-search" type="search" aria-label="Search companies" placeholder="Search companies" autocomplete="off">
+        <span class="search-shortcut">Ctrl K</span>
+      </label>
+      <nav class="nav" aria-label="Reader">
+        <a class="active" href="index.html">Trends</a>
+        <a href="signal.html">Competitive Signal</a>
+        <a href="companies.html">Companies</a>
+      </nav>
+    </div>
+  </header>
+  <main class="main" id="main-content"></main>
+  <div class="search-panel" id="search-panel" hidden></div>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <span class="trust-badge">Internal use</span>
+      <p>Public-source research, refreshed periodically — not real-time. Last updated <span id="last-updated"></span>. No scoring, no ranking, no marketing language.</p>
+    </div>
+  </footer>
+  <noscript>This site requires JavaScript to render the portal.</noscript>
+  <script src="assets/data.js"></script>
+  <script src="assets/adapter.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>

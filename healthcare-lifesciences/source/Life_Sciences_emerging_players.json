@@ -1,0 +1,98 @@
+{
+  "industry": "Life Sciences",
+  "emerging_players": [
+    {
+      "name": "Isomorphic Labs",
+      "capability": "AI-first drug design built around IsoDDE, an integrated structure-based engine derived from AlphaFold-era models. The model shifts discovery from sequential wet-lab screening toward a software-centered design loop that predicts molecular interactions, proposes candidates and prioritizes synthesis.",
+      "traction": "Raised $2.1bn Series B on 12 May 2026, led by Thrive Capital with Alphabet, GV, MGX, Temasek, CapitalG and the UK Sovereign AI Fund. Existing research partnerships with Eli Lilly and Novartis carry combined milestone potential above $3bn. The capital is intended to scale IsoDDE and progress internal programs toward the clinic.",
+      "value_chain_impact": "Most exposed: traditional discovery informatics vendors, early-discovery CROs and medicinal-chemistry screening providers, because IsoDDE can move value upstream into proprietary models and reduce iterative screening. Eli Lilly and Novartis are more likely customers/partners than displaced incumbents, but their technology roadmaps and internal discovery operating models become dependent on model integration, validation and data governance. Large pharma R&D groups including AstraZeneca, Roche, Merck, GSK and Sanofi face pressure to match model-to-molecule cycle times.",
+      "traction_assessment": "Traction is commercially credible through named pharma partnerships and exceptional funding, but independent clinical validation remains limited because no publicly established human efficacy result was identified by the research cut-off.",
+      "priority_tags": [
+        "Accelerated Pharma R&D"
+      ],
+      "sources": "Isomorphic Labs funding release, 12 May 2026; BioPharma Wire, 15 June 2026",
+      "source_url": "https://www.isomorphiclabs.com/press/isomorphic-labs-funding"
+    },
+    {
+      "name": "Chai Discovery",
+      "capability": "Generative biology platform using Chai-1/2/3 foundation models for de novo molecular and antibody design. Chai-2 is positioned as a zero-shot antibody design system, while custom models can be trained on a pharma partner\u2019s proprietary data and workflows.",
+      "traction": "Announced a $400m Series C on 14 July 2026, bringing reported total funding to about $630m. On 9 January 2026, Eli Lilly agreed to deploy Chai\u2019s platform across multiple biologic targets and commission a Lilly-exclusive model after evaluating Chai designs. Additional 2026 collaborations were reported with Pfizer, Novartis and argenx.",
+      "value_chain_impact": "Most exposed: antibody discovery CROs, display-library providers and specialist computational biology vendors, because Chai can compress hit generation into software-led design with higher experimental hit rates. Eli Lilly and Novartis are exposed through technology-roadmap dependence and data/model integration, but are primarily buyers rather than displaced firms. Amgen, AbbVie, UCB, Roche and J&J face pressure to adopt similar custom-model architectures or risk slower biologics design cycles.",
+      "traction_assessment": "Real enterprise traction is demonstrated by named deployments. Experimental hit-rate claims are largely company or partner reported and still require broader independent replication and clinical translation.",
+      "priority_tags": [
+        "Accelerated Pharma R&D"
+      ],
+      "sources": "Chai Discovery/Lilly Business Wire release, 9 January 2026; Cure AI Funding Tracker, updated 3 September 2026",
+      "source_url": "https://www.businesswire.com/news/home/20260108131261/en/Chai-Discovery-Announces-Collaboration-with-Eli-Lilly-and-Company-to-Accelerate-Biologics-Discovery"
+    },
+    {
+      "name": "Lila Sciences",
+      "capability": "Autonomous AI Science Factories combining multi-agent scientific reasoning, robotic laboratories, simulation and continuous closed-loop experimentation. Unlike pure software discovery platforms, Lila aims to automate the full scientific method from hypothesis through physical testing and learning.",
+      "traction": "Raised a $350m Series A by June 2026, taking total reported funding to $550m. The company is building automated AI Science Factories, opened its architecture to an initial commercial enterprise cohort, joined the US Department of Energy Genesis Mission and reported an RNA discovery engine that generated ultra-stable mRNA and a CAR-T construct tested in non-human primates.",
+      "value_chain_impact": "Most exposed: preclinical CROs, high-throughput screening labs, laboratory automation integrators and scientific-software vendors, because Lila bundles reasoning, experimentation and hardware into one service architecture. Pharma R&D organizations at Lilly, AstraZeneca, GSK, Roche and Novartis could become customers, but internal wet-lab teams and incumbent lab-equipment suppliers face roadmap pressure if autonomous labs reduce manual experimentation and demand standardized machine-readable workflows.",
+      "traction_assessment": "Well-funded with meaningful platform demonstrations and government participation, but most discovery claims remain company-reported, and repeatable customer economics or clinical outcomes are not yet independently verified.",
+      "priority_tags": [
+        "Accelerated Pharma R&D"
+      ],
+      "sources": "Lila newsroom through 10 September 2026; FinSMEs, 4 June 2026; Fierce Biotech, 15 September 2025",
+      "source_url": "https://www.lila.ai/news"
+    },
+    {
+      "name": "Cellares",
+      "capability": "Integrated Development and Manufacturing Organization using Cell Shuttle and Cell Q. The architecture standardizes cell-therapy production in closed, automated, high-throughput units across a global Smart Factory network, replacing bespoke manual clean-room processes.",
+      "traction": "Raised $257m Series D on 28 January 2026, taking total funding to $612m. The round funds Smart Factories in the US, Netherlands and Japan. Bristol Myers Squibb has a worldwide CAR-T capacity reservation and supply agreement reported at up to $380m; Cabaletta Bio patients were dosed in April 2026 using product manufactured on Cell Shuttle. The platform received FDA Advanced Manufacturing Technology designation.",
+      "value_chain_impact": "Most exposed: traditional cell-therapy CDMOs, clean-room engineering firms, manual process-equipment suppliers and pharma in-house manufacturing networks. BMS is simultaneously a customer and an incumbent with its own plants; Cellares can alter BMS\u2019s make-versus-buy economics, regional capacity planning and cost per dose. UCB and other companies adding cell therapies face a decision between building dedicated facilities and using automated IDMO capacity. Automation suppliers may gain component revenue while conventional labor-intensive CDMOs risk price and throughput pressure.",
+      "traction_assessment": "Strongest technical traction in the group: regulatory recognition, named supply agreements, GMP clinical manufacturing and first-patient dosing. Commercial-scale execution from 2027 remains the key proof point.",
+      "priority_tags": [],
+      "sources": "Cellares Series D release, 28 January 2026; Cellares company site, updated 14 April 2026; BioSpace, 28 January 2026",
+      "source_url": "https://www.cellares.com/news/cellares-raises-257-million-series-d-led-by-blackrock-and-eclipse-to-industrialize-global-cell-therapy-manufacturing-with-breakthrough-automation/"
+    },
+    {
+      "name": "Antheia",
+      "capability": "Biosynthetic pharmaceutical ingredient platform using engineered organisms and fermentation to produce complex key starting materials and APIs. The distributed biomanufacturing model replaces climate-, crop- and geography-dependent botanical supply chains.",
+      "traction": "Raised $56m Series C on 3 June 2025 to commercialize thebaine, launch products from a 70+ ingredient pipeline, activate US manufacturing and begin Singapore programs. A BioMaP/HHS project agreement of up to $12m followed earlier support, and Antheia reported commercial-scale delivery of thebaine to a leading pharmaceutical customer.",
+      "value_chain_impact": "Most exposed: agricultural/botanical API suppliers, extractors, commodity intermediaries and conventional chemical API manufacturers whose revenue depends on crop-derived or geographically concentrated inputs. Generic and branded pharma manufacturers, including Servier, Sanofi, GSK, Bayer and Boehringer, are more likely customers benefiting from resilient supply and lower shortage risk. Supplier relationships could shift from farms and multi-step chemistry chains toward fermentation capacity, strain IP and digital process control.",
+      "traction_assessment": "Technical and manufacturing traction is credible through commercial-scale thebaine delivery and government-backed scale-up. The named pharmaceutical customer was not publicly identified, limiting independent assessment of repeat demand and product economics.",
+      "priority_tags": [],
+      "sources": "Antheia Series C release, 3 June 2025; BioMaP project agreement, 3 December 2024; GHIC, 4 June 2025",
+      "source_url": "https://antheia.bio/antheia-raises-56-million-in-series-c-financing-to-fuel-global-commercialization-strategy/"
+    },
+    {
+      "name": "Cradle",
+      "capability": "Self-service generative AI for protein engineering that combines foundation models with each customer\u2019s experimental data in a continuous-learning loop. Scientists specify multiple desired properties, receive candidate sequences and feed wet-lab outcomes back to improve the next round.",
+      "traction": "Raised $73m Series B on 26 November 2024, taking total funding above $100m. Cradle reported 21 customers and 31 proteins in development, including Novo Nordisk, Johnson & Johnson Innovative Medicine, Novonesis and Grifols. The company reports 1.2x-12x faster projects and cost reductions up to 90%.",
+      "value_chain_impact": "Most exposed: protein-engineering CROs, directed-evolution service providers and specialized bioinformatics vendors, because a browser-based platform can internalize design capability within pharma and biotech teams. Novo Nordisk and J&J are customers whose R&D workflows may shift toward scientist-operated generative design. Amgen, UCB, Roche and AbbVie face technology-roadmap pressure to equip bench scientists with comparable tools. Wet-lab CROs may retain validation work but lose iterative design revenue.",
+      "traction_assessment": "Commercial traction is real through named customers and molecules under development. Performance and cost claims are primarily company-reported and require independent, program-level validation and eventual clinical evidence.",
+      "priority_tags": [
+        "Accelerated Pharma R&D"
+      ],
+      "sources": "Cradle Series B release, 26 November 2024; Cradle platform/customer materials, accessed 16 September 2026",
+      "source_url": "https://www.cradle.bio/blog/series-b"
+    },
+    {
+      "name": "Formation Bio",
+      "capability": "AI-native pharma business model that acquires or licenses clinical-stage assets, applies proprietary software and operating processes to accelerate development, and partners or licenses programs at value-inflection points. This differs from a software vendor because Formation owns development risk and economics.",
+      "traction": "Raised $372m Series D in June 2024 with Sanofi participating. Sanofi, Formation Bio and OpenAI formed a purpose-built AI collaboration across drug development. In June 2025 Sanofi signed a deal worth up to \u20ac545m for gusacitinib in a new indication. Formation dosed the first participant in a Phase 1 trial of BLKR201 on 9 June 2026 and continued in-licensing clinical-stage assets.",
+      "value_chain_impact": "Most exposed: traditional biotech asset aggregators, clinical-development CROs and pharma business-development models that monetize shelved compounds slowly. Sanofi is both investor and partner, gaining faster access to external assets while potentially shifting development work away from conventional CRO layers. Merck KGaA and other licensors can monetize non-core assets earlier. Large pharma companies including BMS, Bayer and GSK may face stronger competition for overlooked clinical-stage assets and may adopt similar AI-enabled portfolio rescue models.",
+      "traction_assessment": "Traction extends beyond funding: a large named licensing deal, multiple asset licenses and first-patient dosing. Whether the platform consistently shortens trials or improves approval probability remains unproven across a broad portfolio.",
+      "priority_tags": [
+        "Accelerated Pharma R&D"
+      ],
+      "sources": "Formation Bio pressroom through 22 July 2026; Fierce Biotech, 23 June 2025",
+      "source_url": "https://www.formation.bio/press"
+    },
+    {
+      "name": "Abridge",
+      "capability": "AI-native clinician intelligence platform built around medical conversations. It expands from ambient documentation into pre-visit summaries, coding/payment alignment, care signals and clinical-trial matching, connecting provider workflows with payers and life-sciences evidence generation.",
+      "traction": "At its 11 June 2026 keynote, Abridge unveiled the expanded platform and a foundation model purpose-built for clinical conversations. The ecosystem includes NVIDIA technology and reported Eli Lilly investment/engagement. Funding reports in 2026 vary materially and were not verified through a primary company financing announcement in the reviewed sources, so no definitive funding amount is used here.",
+      "value_chain_impact": "Most exposed: healthcare CRM/patient-support vendors, clinical-trial recruitment platforms, medical communications agencies and EHR workflow integrators. Lilly and other pharma companies can reach eligible patients or generate real-world evidence through clinician workflows, potentially bypassing parts of traditional site-identification and patient-engagement chains. Commercial organizations at Sanofi, Novo Nordisk, J&J and GSK may gain a new channel, while provider relationships and consent/governance become strategic control points.",
+      "traction_assessment": "Product deployment in clinical documentation is established and the 2026 platform was shipped publicly. Life-sciences value capture, trial-matching outcomes and the scale of the Lilly relationship are not yet independently quantified; financing reports are inconsistent.",
+      "priority_tags": [
+        "Accelerated Pharma R&D",
+        "Integrated Marketing and Sales for Pharma & MedTech"
+      ],
+      "sources": "Abridge Keynote, 11 June 2026; BioIntel, 12 June 2026",
+      "source_url": "https://www.abridge.com/keynote"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "industry": "Telecom",
+  "caveat_required_display": "Reflects public-source visibility only - not confirmed presence or absence of an actual client engagement.",
+  "per_priority_summary": [
+    {
+      "priority": "Autonomous Networks",
+      "companies_tagged": 21,
+      "public_signal_found_for_at_least_one_competitor": 21,
+      "no_public_signal_found_for_any": 0
+    },
+    {
+      "priority": "Intelligent Telco",
+      "companies_tagged": 0,
+      "public_signal_found_for_at_least_one_competitor": 0,
+      "no_public_signal_found_for_any": 0
+    },
+    {
+      "priority": "Intelligent Operations",
+      "companies_tagged": 24,
+      "public_signal_found_for_at_least_one_competitor": 24,
+      "no_public_signal_found_for_any": 0
+    }
+  ]
+}

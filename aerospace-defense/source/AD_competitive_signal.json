@@ -1,0 +1,386 @@
+{
+  "heatmap_headers": [
+    "Company",
+    "Smart Operations for Production Ramp-up",
+    "Supply Chain Transformation",
+    "Customer Support, MRO & Digital Services",
+    "Augmented Digital Engineering for A&D",
+    "Digital Core / ERP Transformation",
+    "Software Enabled A&D",
+    "Quality Excellence",
+    "Net Zero & Circular Aviation",
+    "Infrastructure & Capital Projects"
+  ],
+  "heatmap": [
+    {
+      "Company": "Airbus SE",
+      "Smart Operations for Production Ramp-up": "Accenture",
+      "Supply Chain Transformation": "IBM",
+      "Customer Support, MRO & Digital Services": "N/A",
+      "Augmented Digital Engineering for A&D": "Accenture",
+      "Digital Core / ERP Transformation": "N/A",
+      "Software Enabled A&D": "TCS",
+      "Quality Excellence": "N/A",
+      "Net Zero & Circular Aviation": "N/A",
+      "Infrastructure & Capital Projects": "N/A"
+    },
+    {
+      "Company": "BAE Systems Plc",
+      "Smart Operations for Production Ramp-up": "N/A",
+      "Supply Chain Transformation": "N/A",
+      "Customer Support, MRO & Digital Services": "OPEN",
+      "Augmented Digital Engineering for A&D": "IBM",
+      "Digital Core / ERP Transformation": "Accenture",
+      "Software Enabled A&D": "N/A",
+      "Quality Excellence": "OPEN",
+      "Net Zero & Circular Aviation": "N/A",
+      "Infrastructure & Capital Projects": "N/A"
+    },
+    {
+      "Company": "The Boeing Company",
+      "Smart Operations for Production Ramp-up": "Accenture",
+      "Supply Chain Transformation": "IBM",
+      "Customer Support, MRO & Digital Services": "IBM",
+      "Augmented Digital Engineering for A&D": "TCS",
+      "Digital Core / ERP Transformation": "N/A",
+      "Software Enabled A&D": "N/A",
+      "Quality Excellence": "Accenture",
+      "Net Zero & Circular Aviation": "N/A",
+      "Infrastructure & Capital Projects": "N/A"
+    },
+    {
+      "Company": "CNES",
+      "Smart Operations for Production Ramp-up": "N/A",
+      "Supply Chain Transformation": "N/A",
+      "Customer Support, MRO & Digital Services": "N/A",
+      "Augmented Digital Engineering for A&D": "N/A",
+      "Digital Core / ERP Transformation": "N/A",
+      "Software Enabled A&D": "IBM",
+      "Quality Excellence": "N/A",
+      "Net Zero & Circular Aviation": "OPEN",
+      "Infrastructure & Capital Projects": "N/A"
+    },
+    {
+      "Company": "Dassault Groupe",
+      "Smart Operations for Production Ramp-up": "N/A",
+      "Supply Chain Transformation": "N/A",
+      "Customer Support, MRO & Digital Services": "N/A",
+      "Augmented Digital Engineering for A&D": "IBM",
+      "Digital Core / ERP Transformation": "OPEN",
+      "Software Enabled A&D": "OPEN",
+      "Quality Excellence": "N/A",
+      "Net Zero & Circular Aviation": "N/A",
+      "Infrastructure & Capital Projects": "N/A"
+    },
+    {
+      "Company": "DGAC",
+      "Smart Operations for Production Ramp-up": "N/A",
+      "Supply Chain Transformation": "N/A",
+      "Customer Support, MRO & Digital Services": "N/A",
+      "Augmented Digital Engineering for A&D": "N/A",
+      "Digital Core / ERP Transformation": "Accenture",
+      "Software Enabled A&D": "OPEN",
+      "Quality Excellence": "OPEN",
+      "Net Zero & Circular Aviation": "OPEN",
+      "Infrastructure & Capital Projects": "N/A"
+    },
+    {
+      "Company": "ESA",
+      "Smart Operations for Production Ramp-up": "N/A",
+      "Supply Chain Transformation": "N/A",
+      "Customer Support, MRO & Digital Services": "N/A",
+      "Augmented Digital Engineering for A&D": "N/A",
+      "Digital Core / ERP Transformation": "N/A",
+      "Software Enabled A&D": "IBM",
+      "Quality Excellence": "N/A",
+      "Net Zero & Circular Aviation": "N/A",
+      "Infrastructure & Capital Projects": "N/A"
+    },
+    {
+      "Company": "GE Aerospace",
+      "Smart Operations for Production Ramp-up": "TCS",
+      "Supply Chain Transformation": "OPEN",
+      "Customer Support, MRO & Digital Services": "Accenture",
+      "Augmented Digital Engineering for A&D": "N/A",
+      "Digital Core / ERP Transformation": "N/A",
+      "Software Enabled A&D": "N/A",
+      "Quality Excellence": "OPEN",
+      "Net Zero & Circular Aviation": "N/A",
+      "Infrastructure & Capital Projects": "N/A"
+    },
+    {
+      "Company": "Honeywell",
+      "Smart Operations for Production Ramp-up": "N/A",
+      "Supply Chain Transformation": "OPEN",
+      "Customer Support, MRO & Digital Services": "N/A",
+      "Augmented Digital Engineering for A&D": "N/A",
+      "Digital Core / ERP Transformation": "Accenture",
+      "Software Enabled A&D": "OPEN",
+      "Quality Excellence": "N/A",
+      "Net Zero & Circular Aviation": "N/A",
+      "Infrastructure & Capital Projects": "N/A"
+    },
+    {
+      "Company": "Leonardo S.p.A.",
+      "Smart Operations for Production Ramp-up": "OPEN",
+      "Supply Chain Transformation": "N/A",
+      "Customer Support, MRO & Digital Services": "N/A",
+      "Augmented Digital Engineering for A&D": "N/A",
+      "Digital Core / ERP Transformation": "N/A",
+      "Software Enabled A&D": "Accenture",
+      "Quality Excellence": "N/A",
+      "Net Zero & Circular Aviation": "N/A",
+      "Infrastructure & Capital Projects": "N/A"
+    },
+    {
+      "Company": "Lockheed Martin",
+      "Smart Operations for Production Ramp-up": "OPEN",
+      "Supply Chain Transformation": "Accenture",
+      "Customer Support, MRO & Digital Services": "N/A",
+      "Augmented Digital Engineering for A&D": "N/A",
+      "Digital Core / ERP Transformation": "N/A",
+      "Software Enabled A&D": "IBM",
+      "Quality Excellence": "OPEN",
+      "Net Zero & Circular Aviation": "N/A",
+      "Infrastructure & Capital Projects": "N/A"
+    },
+    {
+      "Company": "MTU Aero Engines",
+      "Smart Operations for Production Ramp-up": "N/A",
+      "Supply Chain Transformation": "N/A",
+      "Customer Support, MRO & Digital Services": "Accenture",
+      "Augmented Digital Engineering for A&D": "N/A",
+      "Digital Core / ERP Transformation": "N/A",
+      "Software Enabled A&D": "N/A",
+      "Quality Excellence": "OPEN",
+      "Net Zero & Circular Aviation": "N/A",
+      "Infrastructure & Capital Projects": "N/A"
+    },
+    {
+      "Company": "Naval Group SA",
+      "Smart Operations for Production Ramp-up": "Accenture",
+      "Supply Chain Transformation": "OPEN",
+      "Customer Support, MRO & Digital Services": "OPEN",
+      "Augmented Digital Engineering for A&D": "N/A",
+      "Digital Core / ERP Transformation": "N/A",
+      "Software Enabled A&D": "OPEN",
+      "Quality Excellence": "N/A",
+      "Net Zero & Circular Aviation": "N/A",
+      "Infrastructure & Capital Projects": "N/A"
+    },
+    {
+      "Company": "Rolls-Royce Plc",
+      "Smart Operations for Production Ramp-up": "OPEN",
+      "Supply Chain Transformation": "N/A",
+      "Customer Support, MRO & Digital Services": "Accenture",
+      "Augmented Digital Engineering for A&D": "N/A",
+      "Digital Core / ERP Transformation": "N/A",
+      "Software Enabled A&D": "N/A",
+      "Quality Excellence": "TCS",
+      "Net Zero & Circular Aviation": "N/A",
+      "Infrastructure & Capital Projects": "N/A"
+    },
+    {
+      "Company": "RUAG International",
+      "Smart Operations for Production Ramp-up": "N/A",
+      "Supply Chain Transformation": "N/A",
+      "Customer Support, MRO & Digital Services": "N/A",
+      "Augmented Digital Engineering for A&D": "OPEN",
+      "Digital Core / ERP Transformation": "Accenture",
+      "Software Enabled A&D": "N/A",
+      "Quality Excellence": "OPEN",
+      "Net Zero & Circular Aviation": "N/A",
+      "Infrastructure & Capital Projects": "N/A"
+    },
+    {
+      "Company": "Safran",
+      "Smart Operations for Production Ramp-up": "OPEN",
+      "Supply Chain Transformation": "OPEN",
+      "Customer Support, MRO & Digital Services": "Accenture",
+      "Augmented Digital Engineering for A&D": "N/A",
+      "Digital Core / ERP Transformation": "N/A",
+      "Software Enabled A&D": "N/A",
+      "Quality Excellence": "N/A",
+      "Net Zero & Circular Aviation": "OPEN",
+      "Infrastructure & Capital Projects": "N/A"
+    },
+    {
+      "Company": "Thales",
+      "Smart Operations for Production Ramp-up": "OPEN",
+      "Supply Chain Transformation": "N/A",
+      "Customer Support, MRO & Digital Services": "N/A",
+      "Augmented Digital Engineering for A&D": "Accenture",
+      "Digital Core / ERP Transformation": "N/A",
+      "Software Enabled A&D": "Accenture",
+      "Quality Excellence": "OPEN",
+      "Net Zero & Circular Aviation": "OPEN",
+      "Infrastructure & Capital Projects": "N/A"
+    },
+    {
+      "Company": "AWE Plc",
+      "Smart Operations for Production Ramp-up": "N/A",
+      "Supply Chain Transformation": "N/A",
+      "Customer Support, MRO & Digital Services": "N/A",
+      "Augmented Digital Engineering for A&D": "N/A",
+      "Digital Core / ERP Transformation": "N/A",
+      "Software Enabled A&D": "N/A",
+      "Quality Excellence": "IBM",
+      "Net Zero & Circular Aviation": "OPEN",
+      "Infrastructure & Capital Projects": "IBM"
+    }
+  ],
+  "ranking_headers": [
+    "Rank",
+    "Company",
+    "Competitors Absent (Out of 3)",
+    "Specific Absent Competitor Names",
+    "Targeted Whitespace Priority Areas (Marked \"OPEN\")",
+    "Strategic Capital Capture Potential"
+  ],
+  "ranking": [
+    {
+      "Rank": "1",
+      "Company": "Dassault Groupe",
+      "Competitors Absent (Out of 3)": "2",
+      "Specific Absent Competitor Names": "Accenture, TCS",
+      "Targeted Whitespace Priority Areas (Marked \"OPEN\")": "\u2022 Digital Core / ERP Transformation\n\u2022 Software Enabled A&D",
+      "Strategic Capital Capture Potential": "Highest Tier: Only IBM is present. Critical digital transformation and software-defined platforms are completely unvended."
+    },
+    {
+      "Rank": "2",
+      "Company": "DGAC",
+      "Competitors Absent (Out of 3)": "2",
+      "Specific Absent Competitor Names": "IBM, TCS",
+      "Targeted Whitespace Priority Areas (Marked \"OPEN\")": "\u2022 Software Enabled A&D\n\u2022 Quality Excellence\n\u2022 Net Zero & Circular Aviation",
+      "Strategic Capital Capture Potential": "Highest Tier: Massive regulatory and transformation whitespace. Only Accenture holds a foothold."
+    },
+    {
+      "Rank": "3",
+      "Company": "Naval Group SA",
+      "Competitors Absent (Out of 3)": "2",
+      "Specific Absent Competitor Names": "IBM, TCS",
+      "Targeted Whitespace Priority Areas (Marked \"OPEN\")": "\u2022 Supply Chain Transformation\n\u2022 Customer Support, MRO & Digital Services\n\u2022 Software Enabled A&D",
+      "Strategic Capital Capture Potential": "Highest Tier: High concentration of open fields. Accenture is only isolated to production ramp-up projects."
+    },
+    {
+      "Rank": "4",
+      "Company": "Safran",
+      "Competitors Absent (Out of 3)": "2",
+      "Specific Absent Competitor Names": "IBM, TCS",
+      "Targeted Whitespace Priority Areas (Marked \"OPEN\")": "\u2022 Smart Operations for Production Ramp-up\n\u2022 Supply Chain Transformation\n\u2022 Net Zero & Circular Aviation",
+      "Strategic Capital Capture Potential": "Highest Tier: Propulsion lines are highly exposed. Accenture is siloed strictly to aftermarket/MRO data."
+    },
+    {
+      "Rank": "5",
+      "Company": "CNES",
+      "Competitors Absent (Out of 3)": "2",
+      "Specific Absent Competitor Names": "Accenture, TCS",
+      "Targeted Whitespace Priority Areas (Marked \"OPEN\")": "\u2022 Net Zero & Circular Aviation",
+      "Strategic Capital Capture Potential": "High Tier: Sovereign civil space domain is completely closed to Accenture and TCS; IBM anchors computing layers."
+    },
+    {
+      "Rank": "6",
+      "Company": "ESA",
+      "Competitors Absent (Out of 3)": "2",
+      "Specific Absent Competitor Names": "Accenture, TCS",
+      "Targeted Whitespace Priority Areas (Marked \"OPEN\")": "None (Remaining areas are N/A)",
+      "Strategic Capital Capture Potential": "High Tier: Intergovernmental data pipeline processing is locked by IBM; all other domains are completely unaddressed."
+    },
+    {
+      "Rank": "7",
+      "Company": "Honeywell",
+      "Competitors Absent (Out of 3)": "2",
+      "Specific Absent Competitor Names": "IBM, TCS",
+      "Targeted Whitespace Priority Areas (Marked \"OPEN\")": "\u2022 Supply Chain Transformation\n\u2022 Software Enabled A&D",
+      "Strategic Capital Capture Potential": "High Tier: Post-spin enterprise architecture is highly vulnerable; Accenture only handles the baseline ERP decoupling."
+    },
+    {
+      "Rank": "8",
+      "Company": "Leonardo S.p.A.",
+      "Competitors Absent (Out of 3)": "2",
+      "Specific Absent Competitor Names": "IBM, TCS",
+      "Targeted Whitespace Priority Areas (Marked \"OPEN\")": "\u2022 Smart Operations for Production Ramp-up",
+      "Strategic Capital Capture Potential": "High Tier: Industrial plant automation is unserved. Accenture is localized to the cyber security segment."
+    },
+    {
+      "Rank": "9",
+      "Company": "MTU Aero Engines",
+      "Competitors Absent (Out of 3)": "2",
+      "Specific Absent Competitor Names": "IBM, TCS",
+      "Targeted Whitespace Priority Areas (Marked \"OPEN\")": "\u2022 Quality Excellence",
+      "Strategic Capital Capture Potential": "High Tier: Remediation and engineering safety programs are wide open. Accenture is limited to commercial MRO data."
+    },
+    {
+      "Rank": "10",
+      "Company": "AWE Plc",
+      "Competitors Absent (Out of 3)": "2",
+      "Specific Absent Competitor Names": "Accenture, TCS",
+      "Targeted Whitespace Priority Areas (Marked \"OPEN\")": "\u2022 Net Zero & Circular Aviation",
+      "Strategic Capital Capture Potential": "High Tier: Sovereign nuclear defense infrastructure has no Accenture or TCS presence. IBM commands the asset lifecycle systems."
+    },
+    {
+      "Rank": "11",
+      "Company": "BAE Systems Plc",
+      "Competitors Absent (Out of 3)": "1",
+      "Specific Absent Competitor Names": "TCS",
+      "Targeted Whitespace Priority Areas (Marked \"OPEN\")": "\u2022 Customer Support, MRO & Digital Services\n\u2022 Quality Excellence",
+      "Strategic Capital Capture Potential": "Mid Tier: Dual presence from IBM and Accenture, but multi-year international training and return-on-sales execution are exposed."
+    },
+    {
+      "Rank": "12",
+      "Company": "GE Aerospace",
+      "Competitors Absent (Out of 3)": "1",
+      "Specific Absent Competitor Names": "IBM",
+      "Targeted Whitespace Priority Areas (Marked \"OPEN\")": "\u2022 Supply Chain Transformation\n\u2022 Quality Excellence",
+      "Strategic Capital Capture Potential": "Mid Tier: Heavily contested by Accenture and TCS, but upstream supplier capacity and automated casting scripts are open."
+    },
+    {
+      "Rank": "13",
+      "Company": "Lockheed Martin",
+      "Competitors Absent (Out of 3)": "1",
+      "Specific Absent Competitor Names": "TCS",
+      "Targeted Whitespace Priority Areas (Marked \"OPEN\")": "\u2022 Smart Operations for Production Ramp-up\n\u2022 Quality Excellence",
+      "Strategic Capital Capture Potential": "Mid Tier: Accenture and IBM split federal supply and software layers. Automated munitions capex ramps ($876M) are uncovered."
+    },
+    {
+      "Rank": "14",
+      "Company": "Thales",
+      "Competitors Absent (Out of 3)": "1",
+      "Specific Absent Competitor Names": "IBM",
+      "Targeted Whitespace Priority Areas (Marked \"OPEN\")": "\u2022 Smart Operations for Production Ramp-up\n\u2022 Quality Excellence\n\u2022 Net Zero & Circular Aviation",
+      "Strategic Capital Capture Potential": "Mid Tier: Accenture is dual-entrenched in digital/cyber stacks, but book-to-bill factory ramp optimization remains uncontested."
+    },
+    {
+      "Rank": "15",
+      "Company": "Rolls-Royce Plc",
+      "Competitors Absent (Out of 3)": "1",
+      "Specific Absent Competitor Names": "IBM",
+      "Targeted Whitespace Priority Areas (Marked \"OPEN\")": "\u2022 Smart Operations for Production Ramp-up",
+      "Strategic Capital Capture Potential": "Mid Tier: Power Systems data center infrastructure boom (72% growth) is completely unvended by incumbents."
+    },
+    {
+      "Rank": "16",
+      "Company": "RUAG International",
+      "Competitors Absent (Out of 3)": "1",
+      "Specific Absent Competitor Names": "TCS",
+      "Targeted Whitespace Priority Areas (Marked \"OPEN\")": "\u2022 Augmented Digital Engineering for A&D\n\u2022 Quality Excellence",
+      "Strategic Capital Capture Potential": "Mid Tier: Space systems reorganization is actively managed by IBM and Accenture; engineering tool harmonization is open."
+    },
+    {
+      "Rank": "17",
+      "Company": "Airbus SE",
+      "Competitors Absent (Out of 3)": "0",
+      "Specific Absent Competitor Names": "None (All 3 Present)",
+      "Targeted Whitespace Priority Areas (Marked \"OPEN\")": "None (All priority cells are covered)",
+      "Strategic Capital Capture Potential": "Lowest Tier: Extremely entrenched. Accenture, IBM, and TCS have successfully mapped and divided all core operational priorities."
+    },
+    {
+      "Rank": "18",
+      "Company": "The Boeing Company",
+      "Competitors Absent (Out of 3)": "0",
+      "Specific Absent Competitor Names": "None (All 3 Present)",
+      "Targeted Whitespace Priority Areas (Marked \"OPEN\")": "None (All priority cells are covered)",
+      "Strategic Capital Capture Potential": "Lowest Tier: Zero competitive gaps. The account is aggressively locked down across all active production, MRO, and PLM tracks."
+    }
+  ]
+}

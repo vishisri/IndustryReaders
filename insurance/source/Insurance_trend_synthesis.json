@@ -1,0 +1,791 @@
+{
+  "industry": "Insurance",
+  "methodology_note": "Corrected 2026-09-22: the original parse only captured the FIRST 'Priority Tagging:' occurrence per company, but the source research tags priorities separately after each section (leadership, strategic moves, competitor footprint, trend connection) - multiple companies were missing tags that existed later in their own entry. Re-extracted by scanning each company's full source section for every tagging occurrence and taking the union. This is the same class of bug found and fixed in Telecom.",
+  "trends": [
+    {
+      "trend_id": "insurance_t1",
+      "trend_name": "Service Solutions",
+      "supporting_companies": [
+        {
+          "company": "AXA SA",
+          "justification": "Group revenues expanded 7% YoY backed by digital product bundling and health service platforms"
+        },
+        {
+          "company": "Zurich Insurance Group AG",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Chubb Limited",
+          "justification": "Asia consumer lines expansion expanded premium volume"
+        },
+        {
+          "company": "Ping An Insurance (Group) Company of China, Ltd.",
+          "justification": "Life & Health NBV expanded 34.1% supported by digital agent tools and healthcare ecosystem cross-selling"
+        },
+        {
+          "company": "China Life Insurance Company Limited",
+          "justification": "Revenues surged 54.8% YoY backed by digital agency distribution and health product adoption"
+        },
+        {
+          "company": "Prudential Financial, Inc.",
+          "justification": "U.S. Individual Retirement sales expanded 12% YoY supported by automated advisor portals"
+        },
+        {
+          "company": "MetLife, Inc.",
+          "justification": "Asia market premiums grew 8% YoY backed by mobile client portals"
+        },
+        {
+          "company": "Assicurazioni Generali S.p.A. (Generali Group)",
+          "justification": "Life premiums expanded 23.3% YoY supported by digital bancassurance channel integration"
+        },
+        {
+          "company": "Munich Re (M\u00fcnchener R\u00fcckversicherungs-Gesellschaft)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Tokio Marine Holdings, Inc.",
+          "justification": "International insurance net profit expanded 28% YoY supported by digital commercial specialty platforms"
+        },
+        {
+          "company": "Aviva plc",
+          "justification": "Retirement net flows rose 21% YoY supported by digital wealth and pension portals"
+        },
+        {
+          "company": "Legal & General Group plc",
+          "justification": "Institutional PRT volume reached \u00a35.0 billion backed by digital risk modeling engines"
+        },
+        {
+          "company": "Aon plc",
+          "justification": "Organic revenue expanded 7% YoY supported by digital risk analytics and client portal tools"
+        },
+        {
+          "company": "Marsh McLennan (Marsh & McLennan Companies, Inc.)",
+          "justification": "Risk & Insurance Services revenue expanded 7% YoY supported by digital placement portals"
+        },
+        {
+          "company": "Berkshire Hathaway Primary & Reinsurance Group (GEICO / BHSI)",
+          "justification": "Investment income reached $3.66B supporting group capital strength"
+        },
+        {
+          "company": "The Progressive Corporation",
+          "justification": "Personal lines policies in force grew 15% YoY backed by mobile app onboarding"
+        },
+        {
+          "company": "The Allstate Corporation",
+          "justification": "Protection Services revenues grew 11% YoY via mobile protection plans"
+        },
+        {
+          "company": "Aflac Incorporated",
+          "justification": "Aflac Japan sales rose 9.8% YoY supported by automated mobile claims processing"
+        },
+        {
+          "company": "Manulife Financial Corporation",
+          "justification": "Asia new business value expanded 39% YoY supported by mobile agent enablement platforms"
+        },
+        {
+          "company": "Sun Life Financial Inc.",
+          "justification": "Asia underlying net income rose 16% YoY backed by digital agency channels"
+        },
+        {
+          "company": "AIA Group Limited",
+          "justification": "Q3 NBV reached record $1.16B supported by Premier Agency digital sales tools"
+        },
+        {
+          "company": "Sompo Holdings, Inc.",
+          "justification": "Nursing care digital health services expanded fee income"
+        },
+        {
+          "company": "Talanx AG (HDI Group)",
+          "justification": "Retail International division premiums expanded 28% YoY backed by digital distribution acquisitions"
+        },
+        {
+          "company": "Ageas SA/NV",
+          "justification": "Life inflows reached \u20ac12.5B supported by digital bancassurance platforms in Asia"
+        },
+        {
+          "company": "Sampo plc",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "NN Group N.V.",
+          "justification": "Netherlands Life OCG rose 12% YoY supported by digital pension portals"
+        },
+        {
+          "company": "Lincoln National Corporation (Lincoln Financial Group)",
+          "justification": "Annuity sales expanded 15% YoY supported by automated advisor portals"
+        },
+        {
+          "company": "Principal Financial Group, Inc.",
+          "justification": "Retirement RIS net inflows reached $1.8B supported by automated workplace participant portals"
+        },
+        {
+          "company": "Unum Group",
+          "justification": "Unum US sales rose 8.5% YoY supported by mobile voluntary benefit enrollment tools"
+        },
+        {
+          "company": "Willis Towers Watson Public Limited Company (WTW)",
+          "justification": "Corporate Risk & Broking organic revenue grew 10% YoY backed by digital risk analytics portals"
+        },
+        {
+          "company": "Arthur J. Gallagher & Co.",
+          "justification": "Brokerage organic revenue grew 6.0% YoY supported by digital client advisory workbenches"
+        },
+        {
+          "company": "Arch Capital Group Ltd.",
+          "justification": "Net written premiums expanded 20% YoY backed by digital broker connectivity"
+        },
+        {
+          "company": "Markel Group Inc.",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "W. R. Berkley Corporation",
+          "justification": "Net written premiums grew 10.2% YoY backed by digital broker connectivity"
+        },
+        {
+          "company": "Cincinnati Financial Corporation",
+          "justification": "Personal lines premiums grew 12% YoY via local agency portals"
+        },
+        {
+          "company": "CNA Financial Corporation",
+          "justification": "Net investment income rose 16% YoY supporting capital reserves"
+        },
+        {
+          "company": "Fidelity National Financial, Inc.",
+          "justification": "Title segment revenues expanded 6% YoY supported by automated digital closing platforms"
+        },
+        {
+          "company": "Old Republic International Corporation",
+          "justification": "Title Insurance margins recovered supported by digital closing portal adoption"
+        },
+        {
+          "company": "Reinsurance Group of America, Incorporated (RGA)",
+          "justification": "Net written premiums expanded 8% YoY backed by global life reinsurance placement platforms"
+        },
+        {
+          "company": "HanseMerkur Holding AG",
+          "justification": "Private health PKV net clients grew by 15,000 supported by mobile claims app onboarding"
+        },
+        {
+          "company": "Helvetia Holding AG",
+          "justification": "Fee business revenues expanded 8% YoY backed by digital mortgage and pension platforms"
+        },
+        {
+          "company": "Storebrand ASA",
+          "justification": "Total AUM expanded 15% YoY to NOK 1.28 trillion supported by digital robo-advisory pension platforms"
+        },
+        {
+          "company": "MAPFRE, S.A.",
+          "justification": "LATAM net result rose 25% YoY backed by digital bancassurance expansion"
+        },
+        {
+          "company": "Vienna Insurance Group AG (VIG)",
+          "justification": "CEE gross written premiums expanded 8.2% YoY backed by digital bancassurance channels"
+        },
+        {
+          "company": "Baloise Holding AG",
+          "justification": "Mobility and Home ecosystem services expanded recurring fee revenues"
+        },
+        {
+          "company": "Great-West Lifeco Inc.",
+          "justification": "Empower U.S. fee-based AUA expanded 16% YoY supported by digital participant retirement portals"
+        },
+        {
+          "company": "Power Corporation of Canada",
+          "justification": "Total group AUM/AUA expanded to CAD 2.6 trillion supported by digital wealth management portals"
+        },
+        {
+          "company": "Fairfax Financial Holdings Limited",
+          "justification": "Net written premiums grew 10% YoY supported by commercial specialty expansion"
+        },
+        {
+          "company": "Insurance Australia Group Limited (IAG)",
+          "justification": "Personal lines premiums grew 9% YoY via digital direct channels"
+        },
+        {
+          "company": "Nippon Life Insurance Company",
+          "justification": "Individual sales ANP expanded 12.5% YoY supported by tablet-based 'Nissay Financial Adviser' digital sales tools"
+        },
+        {
+          "company": "Dai-ichi Life Holdings, Inc.",
+          "justification": "Group ANP expanded 18% YoY supported by digital bancassurance and overseas agency platforms"
+        },
+        {
+          "company": "Meiji Yasuda Life Insurance Company",
+          "justification": "ANP expanded 8.2% YoY supported by 'Ease Access' tablet sales tools for agency reps"
+        },
+        {
+          "company": "Sumitomo Life Insurance Company",
+          "justification": "'Vitality' health-incentive policies reached 1.5M active members, driving ANP up 11.0% YoY"
+        },
+        {
+          "company": "MS&AD Insurance Group Holdings, Inc.",
+          "justification": "Telematics auto policy scale reached 2.0M units in Japan"
+        },
+        {
+          "company": "China Pacific Insurance (Group) Co., Ltd. (CPIC)",
+          "justification": "Life NBV expanded 37.9% YoY supported by 'Changhang' digital agent transformation tools"
+        },
+        {
+          "company": "People's Insurance Company (Group) of China Limited (PICC)",
+          "justification": "Agricultural insurance premiums expanded 8% YoY supported by satellite risk monitoring"
+        },
+        {
+          "company": "Prudential plc (UK / Asia / Africa)",
+          "justification": "Q3 NBP expanded 11% YoY supported by 'PRUForce' digital agency platforms"
+        }
+      ],
+      "company_count": 57
+    },
+    {
+      "trend_id": "insurance_t2",
+      "trend_name": "Intelligent Operations",
+      "supporting_companies": [
+        {
+          "company": "Allianz SE",
+          "justification": "Q3 combined ratio kept at 93.5% through AI-driven claims triage and pricing adjustments"
+        },
+        {
+          "company": "AXA SA",
+          "justification": "Commercial P&C pricing discipline supported margin expansion"
+        },
+        {
+          "company": "Zurich Insurance Group AG",
+          "justification": "P&C commercial combined ratio maintained at 93.1% through automated underwriting and predictive risk engineering"
+        },
+        {
+          "company": "Chubb Limited",
+          "justification": "P&C combined ratio reached 87.7% driven by automated underwriting decisioning"
+        },
+        {
+          "company": "Ping An Insurance (Group) Company of China, Ltd.",
+          "justification": "AI-driven auto claims settlement processing over 70% of claims straight-through"
+        },
+        {
+          "company": "China Life Insurance Company Limited",
+          "justification": "Automated policy underwriting handling 90%+ of individual life submissions"
+        },
+        {
+          "company": "American International Group, Inc. (AIG)",
+          "justification": "Commercial combined ratio kept at 92.6% through predictive underwriting models"
+        },
+        {
+          "company": "MetLife, Inc.",
+          "justification": "Group Benefits earnings rose 15% YoY driven by automated disability claims adjudication"
+        },
+        {
+          "company": "Assicurazioni Generali S.p.A. (Generali Group)",
+          "justification": "P&C combined ratio kept at 94.0% despite heavy regional catastrophe claims"
+        },
+        {
+          "company": "Munich Re (M\u00fcnchener R\u00fcckversicherungs-Gesellschaft)",
+          "justification": "9M combined ratio kept at 90.5% through advanced climate risk analytics and algorithmic retrocession pricing"
+        },
+        {
+          "company": "Swiss Re AG",
+          "justification": "P&C Reinsurance normalized combined ratio maintained at 88.3% via machine learning risk analytics"
+        },
+        {
+          "company": "Tokio Marine Holdings, Inc.",
+          "justification": "Auto claims automation reduced cycle times in Japanese primary lines"
+        },
+        {
+          "company": "Aviva plc",
+          "justification": "UK P&C combined ratio maintained at 95.4% via automated underwriting"
+        },
+        {
+          "company": "Legal & General Group plc",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Aon plc",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Marsh McLennan (Marsh & McLennan Companies, Inc.)",
+          "justification": "Guy Carpenter expanded digital catastrophe modeling tools for reinsurers"
+        },
+        {
+          "company": "Berkshire Hathaway Primary & Reinsurance Group (GEICO / BHSI)",
+          "justification": "GEICO Q3 underwriting profit surged 127% YoY via automated claim decisioning and rate adjustments"
+        },
+        {
+          "company": "The Progressive Corporation",
+          "justification": "Combined ratio improved to 89.0% driven by real-time telematics pricing and AI claims triage"
+        },
+        {
+          "company": "The Allstate Corporation",
+          "justification": "Property-Liability combined ratio restored to 94.8% through auto rate increases and computer vision claims intake"
+        },
+        {
+          "company": "The Travelers Companies, Inc.",
+          "justification": "Combined ratio reached 93.2% supported by automated commercial risk decisioning"
+        },
+        {
+          "company": "Aflac Incorporated",
+          "justification": "Supplemental health claims straight-through processing handling over 75% of submissions"
+        },
+        {
+          "company": "Sun Life Financial Inc.",
+          "justification": "U.S. Group Benefits earnings expanded via automated dental and disability claims decisioning"
+        },
+        {
+          "company": "SCOR SE",
+          "justification": "P&C combined ratio kept at 88.3% through automated risk selection"
+        },
+        {
+          "company": "Sompo Holdings, Inc.",
+          "justification": "Overseas P&C net profit expanded 35% YoY supported by automated specialty underwriting"
+        },
+        {
+          "company": "Talanx AG (HDI Group)",
+          "justification": "Group P&C combined ratio kept at 93.2% through automated commercial underwriting"
+        },
+        {
+          "company": "Ageas SA/NV",
+          "justification": "European P&C combined ratio maintained at 93.8% via automated claims decisioning"
+        },
+        {
+          "company": "Sampo plc",
+          "justification": "Group combined ratio kept at an industry-leading 84.1% through automated digital underwriting and claims triage"
+        },
+        {
+          "company": "NN Group N.V.",
+          "justification": "P&C combined ratio kept at 95.2% through automated claims decisioning"
+        },
+        {
+          "company": "Lincoln National Corporation (Lincoln Financial Group)",
+          "justification": "Group Protection earnings rose 38% YoY via claims process automation"
+        },
+        {
+          "company": "Principal Financial Group, Inc.",
+          "justification": "Specialty Benefits earnings rose 12% YoY via automated group dental underwriting"
+        },
+        {
+          "company": "Unum Group",
+          "justification": "Group Disability operating income rose 14% YoY driven by automated medical claims adjudication"
+        },
+        {
+          "company": "Everest Group, Ltd.",
+          "justification": "9M combined ratio maintained at 95.8% through algorithmic retrocession pricing despite heavy storm losses"
+        },
+        {
+          "company": "Arch Capital Group Ltd.",
+          "justification": "Combined ratio reached an industry-leading 84.7% through automated specialty risk decisioning"
+        },
+        {
+          "company": "Markel Group Inc.",
+          "justification": "Insurance combined ratio kept at 95.8% via predictive specialty risk modeling"
+        },
+        {
+          "company": "W. R. Berkley Corporation",
+          "justification": "Combined ratio reached 90.9% supported by automated commercial specialty underwriting decisioning"
+        },
+        {
+          "company": "Cincinnati Financial Corporation",
+          "justification": "Combined ratio restored to 97.2% through commercial rate increases and computer vision claims processing"
+        },
+        {
+          "company": "The Hartford Financial Services Group, Inc.",
+          "justification": "Commercial Lines combined ratio reached 90.1% driven by automated underwriting decisioning"
+        },
+        {
+          "company": "CNA Financial Corporation",
+          "justification": "P&C combined ratio maintained at 95.2% via predictive commercial underwriting analytics"
+        },
+        {
+          "company": "Fidelity National Financial, Inc.",
+          "justification": "Title margin reached 16.2% via computer vision title search processing"
+        },
+        {
+          "company": "Old Republic International Corporation",
+          "justification": "General Insurance combined ratio maintained at 93.8% through automated commercial risk selection"
+        },
+        {
+          "company": "Reinsurance Group of America, Incorporated (RGA)",
+          "justification": "Financial Solutions operating income rose 18% YoY driven by algorithmic longevity risk modeling"
+        },
+        {
+          "company": "RenaissanceRe Holdings Ltd.",
+          "justification": "Combined ratio kept at 91.2% through proprietary catastrophe modeling despite major storm events"
+        },
+        {
+          "company": "Alleghany Corporation (Berkshire Hathaway)",
+          "justification": "9M combined ratio kept at 91.8% through RSUI commercial specialty underwriting precision"
+        },
+        {
+          "company": "HanseMerkur Holding AG",
+          "justification": "Travel insurance claims straight-through processing handling over 80% of submissions"
+        },
+        {
+          "company": "Helvetia Holding AG",
+          "justification": "Non-life combined ratio kept at 94.5% via automated rate adjustments and claims triage"
+        },
+        {
+          "company": "Storebrand ASA",
+          "justification": "P&C combined ratio kept at 92.8% via automated retail claims decisioning"
+        },
+        {
+          "company": "Gjensidige Forsikring ASA",
+          "justification": "Combined ratio reached an industry-leading 82.8% through automated rate accuracy and AI claims triage"
+        },
+        {
+          "company": "MAPFRE, S.A.",
+          "justification": "Non-life combined ratio improved to 95.7% driven by auto rate adjustments and automated claims inspection"
+        },
+        {
+          "company": "Vienna Insurance Group AG (VIG)",
+          "justification": "Group P&C combined ratio kept at 93.6% via automated underwriting"
+        },
+        {
+          "company": "Baloise Holding AG",
+          "justification": "Non-life combined ratio kept at 92.4% via automated commercial underwriting decisioning"
+        },
+        {
+          "company": "Tryg A/S",
+          "justification": "Combined ratio reached 80.8% driven by real-time telematics and automated fraud detection engines"
+        },
+        {
+          "company": "Intact Financial Corporation",
+          "justification": "Combined ratio kept at 94.2% despite CAD 1.1B catastrophe losses through predictive underwriting analytics"
+        },
+        {
+          "company": "Fairfax Financial Holdings Limited",
+          "justification": "Combined ratio kept at 93.9% via decentralized underwriting discipline across P&C subsidiaries"
+        },
+        {
+          "company": "Insurance Australia Group Limited (IAG)",
+          "justification": "Combined ratio kept at 88.5% through real-time auto rate accuracy and computer vision claims triage"
+        },
+        {
+          "company": "QBE Insurance Group Limited",
+          "justification": "Combined ratio kept at 93.5% via predictive commercial underwriting analytics"
+        },
+        {
+          "company": "Suncorp Group Limited",
+          "justification": "Combined ratio reached 89.2% driven by automated rate pricing and digital claims intake"
+        },
+        {
+          "company": "Dai-ichi Life Holdings, Inc.",
+          "justification": "Automated policy decisioning handling 85%+ of individual life submissions"
+        },
+        {
+          "company": "Meiji Yasuda Life Insurance Company",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Sumitomo Life Insurance Company",
+          "justification": "Automated health metric processing handling 90%+ of Vitality data points"
+        },
+        {
+          "company": "MS&AD Insurance Group Holdings, Inc.",
+          "justification": "MS Amlin overseas reinsurance turnaround expanded underwriting profit"
+        },
+        {
+          "company": "China Pacific Insurance (Group) Co., Ltd. (CPIC)",
+          "justification": "P&C combined ratio maintained at 98.2% via AI auto claims triage"
+        },
+        {
+          "company": "People's Insurance Company (Group) of China Limited (PICC)",
+          "justification": "PICC P&C combined ratio kept at 98.2% through computer vision auto claims inspection"
+        },
+        {
+          "company": "Prudential plc (UK / Asia / Africa)",
+          "justification": "Automated underwriting processing over 80% of individual policy submissions in Hong Kong"
+        }
+      ],
+      "company_count": 63
+    },
+    {
+      "trend_id": "insurance_t3",
+      "trend_name": "Core Transformation",
+      "supporting_companies": [
+        {
+          "company": "Allianz SE",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "AXA SA",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Zurich Insurance Group AG",
+          "justification": "BOPAT ROE exceeding 23% supported by core cloud processing scale"
+        },
+        {
+          "company": "Chubb Limited",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Ping An Insurance (Group) Company of China, Ltd.",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "China Life Insurance Company Limited",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "American International Group, Inc. (AIG)",
+          "justification": "Deconsolidation of Corebridge simplified corporate IT estate"
+        },
+        {
+          "company": "Prudential Financial, Inc.",
+          "justification": "On track to achieve $750M in structural expense savings via cloud migration"
+        },
+        {
+          "company": "MetLife, Inc.",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Assicurazioni Generali S.p.A. (Generali Group)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Munich Re (M\u00fcnchener R\u00fcckversicherungs-Gesellschaft)",
+          "justification": "Full-year net profit target of \u20ac5.0B supported by digital core underwriting resilience"
+        },
+        {
+          "company": "Swiss Re AG",
+          "justification": "Net income reached $2.2B for 9M supported by simplified corporate IT architecture"
+        },
+        {
+          "company": "Tokio Marine Holdings, Inc.",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Aviva plc",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Legal & General Group plc",
+          "justification": "Targeting 6--9% EPS CAGR via corporate business unit integration"
+        },
+        {
+          "company": "Aon plc",
+          "justification": "Total revenue grew 26% YoY boosted by NFP broker integration"
+        },
+        {
+          "company": "Marsh McLennan (Marsh & McLennan Companies, Inc.)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Berkshire Hathaway Primary & Reinsurance Group (GEICO / BHSI)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "The Progressive Corporation",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "The Allstate Corporation",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "The Travelers Companies, Inc.",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Aflac Incorporated",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Manulife Financial Corporation",
+          "justification": "GWAM net inflows reached CAD 5.2B supported by digital asset management portals"
+        },
+        {
+          "company": "Sun Life Financial Inc.",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "AIA Group Limited",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "SCOR SE",
+          "justification": "Restructuring L&H assumptions restored quarterly profitability"
+        },
+        {
+          "company": "Sompo Holdings, Inc.",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Talanx AG (HDI Group)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Ageas SA/NV",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Sampo plc",
+          "justification": "Successfully executed Topdanmark buyout to consolidate Nordic P&C market"
+        },
+        {
+          "company": "NN Group N.V.",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Lincoln National Corporation (Lincoln Financial Group)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Principal Financial Group, Inc.",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Unum Group",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Willis Towers Watson Public Limited Company (WTW)",
+          "justification": "Adjusted operating margin expanded 130 bps via Transformation Program Opex savings"
+        },
+        {
+          "company": "Arthur J. Gallagher & Co.",
+          "justification": "Adjusted EBITDAC margin expanded 70 bps via M&A platform scale"
+        },
+        {
+          "company": "Everest Group, Ltd.",
+          "justification": "Specialty Insurance net written premiums grew 8% YoY via cloud platform scale"
+        },
+        {
+          "company": "Arch Capital Group Ltd.",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Markel Group Inc.",
+          "justification": "Markel Ventures operating revenues rose 8% YoY supporting group diversification"
+        },
+        {
+          "company": "W. R. Berkley Corporation",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Cincinnati Financial Corporation",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "The Hartford Financial Services Group, Inc.",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "CNA Financial Corporation",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Fidelity National Financial, Inc.",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Old Republic International Corporation",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Reinsurance Group of America, Incorporated (RGA)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "RenaissanceRe Holdings Ltd.",
+          "justification": "Gross written premiums expanded 18% YoY boosted by Validus Re integration"
+        },
+        {
+          "company": "Alleghany Corporation (Berkshire Hathaway)",
+          "justification": "TransRe reinsurance platform integrated into Berkshire data networks"
+        },
+        {
+          "company": "HanseMerkur Holding AG",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Helvetia Holding AG",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Storebrand ASA",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Gjensidige Forsikring ASA",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "MAPFRE, S.A.",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Vienna Insurance Group AG (VIG)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Baloise Holding AG",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Tryg A/S",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Intact Financial Corporation",
+          "justification": "RSA UK integration generating structural expense ratio savings"
+        },
+        {
+          "company": "Great-West Lifeco Inc.",
+          "justification": "Empower base earnings rose 22% YoY via acquisition synergy realization"
+        },
+        {
+          "company": "Power Corporation of Canada",
+          "justification": "Corporate simplification driving structural expense leverage across holding units"
+        },
+        {
+          "company": "Fairfax Financial Holdings Limited",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Insurance Australia Group Limited (IAG)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "QBE Insurance Group Limited",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Suncorp Group Limited",
+          "justification": "Finalized Suncorp Bank sale to ANZ, transforming into a pure-play general insurer"
+        },
+        {
+          "company": "Nippon Life Insurance Company",
+          "justification": "Core operating profit rose 18.4% YoY backed by enterprise cloud data migration"
+        },
+        {
+          "company": "Dai-ichi Life Holdings, Inc.",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Meiji Yasuda Life Insurance Company",
+          "justification": "Base operational profit rose 14.1% YoY backed by legacy IT system streamlining"
+        },
+        {
+          "company": "Sumitomo Life Insurance Company",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "MS&AD Insurance Group Holdings, Inc.",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "China Pacific Insurance (Group) Co., Ltd. (CPIC)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "People's Insurance Company (Group) of China Limited (PICC)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Prudential plc (UK / Asia / Africa)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        }
+      ],
+      "company_count": 71
+    }
+  ]
+}

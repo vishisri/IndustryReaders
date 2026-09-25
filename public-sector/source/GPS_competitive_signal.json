@@ -1,0 +1,24 @@
+{
+  "industry": "GPS",
+  "caveat_required_display": "Reflects public-source visibility only - not confirmed presence or absence of an actual client engagement.",
+  "per_priority_summary": [
+    {
+      "priority": "AI Impact with strong Data Foundations",
+      "companies_tagged": 46,
+      "public_signal_found_for_at_least_one_competitor": 46,
+      "no_public_signal_found_for_any": 0
+    },
+    {
+      "priority": "Sovereignty & Resilience for Cloud and AI",
+      "companies_tagged": 50,
+      "public_signal_found_for_at_least_one_competitor": 50,
+      "no_public_signal_found_for_any": 0
+    },
+    {
+      "priority": "AI-Powered Legacy Modernization",
+      "companies_tagged": 57,
+      "public_signal_found_for_at_least_one_competitor": 57,
+      "no_public_signal_found_for_any": 0
+    }
+  ]
+}

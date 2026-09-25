@@ -1,0 +1,24 @@
+{
+  "industry": "Insurance",
+  "caveat_required_display": "Reflects public-source visibility only - not confirmed presence or absence of an actual client engagement.",
+  "per_priority_summary": [
+    {
+      "priority": "Service Solutions",
+      "companies_tagged": 61,
+      "public_signal_found_for_at_least_one_competitor": 61,
+      "no_public_signal_found_for_any": 0
+    },
+    {
+      "priority": "Intelligent Operations",
+      "companies_tagged": 62,
+      "public_signal_found_for_at_least_one_competitor": 62,
+      "no_public_signal_found_for_any": 0
+    },
+    {
+      "priority": "Core Transformation",
+      "companies_tagged": 71,
+      "public_signal_found_for_at_least_one_competitor": 71,
+      "no_public_signal_found_for_any": 0
+    }
+  ]
+}

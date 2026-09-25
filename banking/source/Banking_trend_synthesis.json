@@ -1,0 +1,833 @@
+{
+  "industry": "Banking",
+  "methodology_note": "Corrected 2026-09-22: the original parse only captured the FIRST 'Priority Tagging:' occurrence per company, but the source research tags priorities separately after each section (leadership, strategic moves, competitor footprint, trend connection) - multiple companies were missing tags that existed later in their own entry. Re-extracted by scanning each company's full source section for every tagging occurrence and taking the union. This is the same class of bug found and fixed in Telecom.",
+  "trends": [
+    {
+      "trend_id": "banking_t1",
+      "trend_name": "Transform Customer Journeys and channels",
+      "supporting_companies": [
+        {
+          "company": "ABN AMRO Bank N.V.",
+          "justification": "Efficiency ratio maintained at 58.4% through mobile onboarding automation"
+        },
+        {
+          "company": "Advent International Corporation",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Ally Financial Inc.",
+          "justification": "Direct consumer auto lending and digital deposit growth expanded NIM to 3.35%"
+        },
+        {
+          "company": "American Securities LLC",
+          "justification": "30% portfolio capital targeted at specialty finance and commercial services platforms"
+        },
+        {
+          "company": "Australia and New Zealand Banking Group (ANZ)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Banca Popolare dell'Emilia Romagna (BPER Banca)",
+          "justification": "Efficiency ratio improved to 48.2% via digital branch rationalization"
+        },
+        {
+          "company": "Banco Bradesco S.A.",
+          "justification": "Net income expanded 13.1% YoY supported by digital app onboarding across 70M+ clients"
+        },
+        {
+          "company": "Banco do Brasil S.A.",
+          "justification": "Achieved 21.6% ROE through digital agribusiness lending platforms"
+        },
+        {
+          "company": "Bank of Ireland Group plc",
+          "justification": "Efficiency ratio maintained at 43% through branch self-service automation"
+        },
+        {
+          "company": "Barclays PLC",
+          "justification": "Barclays UK retail digital adoption maintained RoTE at 9.9%"
+        },
+        {
+          "company": "Banco Bilbao Vizcaya Argentaria, S.A. (BBVA)",
+          "justification": "Industry-leading efficiency ratio of 41.4% driven by 75%+ mobile customer acquisition"
+        },
+        {
+          "company": "BDO Unibank, Inc. (BDO Bank Philippines)",
+          "justification": "Low-cost CASA deposit ratio maintained above 70% through digital mobile app adoption"
+        },
+        {
+          "company": "Bank of Queensland (BOQ)",
+          "justification": "Executing full digital retail migration to ME Bank cloud core platform"
+        },
+        {
+          "company": "Groupe BPCE",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Caisse des D\u00e9p\u00f4ts et Consignations (CDC Group)",
+          "justification": "Digitizing public savings and pension administration platforms across France"
+        },
+        {
+          "company": "Citigroup Inc.",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Cr\u00e9dit Agricole Group",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Cr\u00e9dit Mutuel Ark\u00e9a",
+          "justification": "Fortuneo online bank subscriber base expanded to 1.2M clients"
+        },
+        {
+          "company": "DBS Group Holdings Ltd.",
+          "justification": "Achieved 18.2% ROE supported by digital consumer banking platforms"
+        },
+        {
+          "company": "Deutsche Bank AG",
+          "justification": "Resolving Postbank IT system integration backlog to restore digital retail service"
+        },
+        {
+          "company": "Discover Financial Services",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Fidelity Investments, Inc.",
+          "justification": "Added 1.5M new digital retail accounts in Q2"
+        },
+        {
+          "company": "First Abu Dhabi Bank PJSC (FAB)",
+          "justification": "Top-decile efficiency ratio of 25.4% driven by branch digitization"
+        },
+        {
+          "company": "First Command Financial Services, Inc.",
+          "justification": "Modernizing mobile financial planning tools for deployed military personnel"
+        },
+        {
+          "company": "Fiserv, Inc.",
+          "justification": "Core banking software renewals scaled across regional bank clients"
+        },
+        {
+          "company": "Global Payments Inc.",
+          "justification": "Expanding embedded software payment integration across vertical markets"
+        },
+        {
+          "company": "Grupo Financiero Banorte, S.A.B. de C.V.",
+          "justification": "ROE reached 22.3% supported by digital app customer acquisition and mobile lending"
+        },
+        {
+          "company": "ICCREA Banca S.p.A. (Gruppo BCC Iccrea)",
+          "justification": "Modernizing digital banking channels across 115 regional member cooperative banks"
+        },
+        {
+          "company": "ING Groep N.V.",
+          "justification": "Added 500k net primary mobile customers in Q3, driving retail fee income up 11% YoY"
+        },
+        {
+          "company": "Intesa Sanpaolo S.p.A.",
+          "justification": "World-class efficiency ratio of 38.3% driven by digital bank Isybank and branch automation"
+        },
+        {
+          "company": "Jacobs Stiftung (Jacobs Foundation)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "JPMorgan Chase & Co. (JPMC)",
+          "justification": "CCB active digital customers reached 68 million with $17B annual tech spend"
+        },
+        {
+          "company": "KBC Groep NV",
+          "justification": "Efficiency ratio maintained at 47.1% driven by Kate AI assistant user expansion"
+        },
+        {
+          "company": "CaixaBank, S.A. (La Caixa)",
+          "justification": "Best-in-class efficiency ratio of 38.6% driven by digital app user adoption across 20M clients"
+        },
+        {
+          "company": "LendingClub Corporation",
+          "justification": "Direct-to-consumer digital lending platform achieved 6.1% NIM supported by 90% deposit funding"
+        },
+        {
+          "company": "Lloyds Banking Group plc",
+          "justification": "UK's largest digital bank with over 21.5 million active app users"
+        },
+        {
+          "company": "LPL Financial Holdings Inc.",
+          "justification": "Modernizing advisor wealth management workstations"
+        },
+        {
+          "company": "Mitsubishi UFJ Financial Group, Inc. (MUFG)",
+          "justification": "BOJ rate hikes expanded Japanese commercial banking NIM"
+        },
+        {
+          "company": "Morgan Stanley",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "National Australia Bank Limited (NAB)",
+          "justification": "Market leadership in Australian business banking supported by digital lending platform scale"
+        },
+        {
+          "company": "National Savings and Investments (NS&I)",
+          "justification": "Managing digital savings accounts for over 24 million UK Premium Bond holders"
+        },
+        {
+          "company": "Nexi S.p.A.",
+          "justification": "Digital Banking Solutions software growth across European banks"
+        },
+        {
+          "company": "Nordea Bank Abp",
+          "justification": "Efficiency ratio of 44.0% achieved via Nordic digital app adoption across 10M customers"
+        },
+        {
+          "company": "Rabobank (Co\u00f6peratieve Rabobank U.A.)",
+          "justification": "Dutch retail customer digital mobile app adoption maintained efficiency ratio at 48.5%"
+        },
+        {
+          "company": "Royal Bank of Canada (RBC)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Banco Santander, S.A.",
+          "justification": "Industry-leading efficiency ratio of 41.6% achieved via global ONE Transformation digital platform deployment"
+        },
+        {
+          "company": "SCHUFA Holding AG",
+          "justification": "Modernizing consumer mobile credit score transparency portals"
+        },
+        {
+          "company": "SEI Investments Company",
+          "justification": "Modernizing cloud wealth processing engines for regional banks"
+        },
+        {
+          "company": "SK Capital Partners LP",
+          "justification": "Automating digital commercial channel management across specialty industrial portfolio platforms"
+        },
+        {
+          "company": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale S.A.",
+          "justification": "BoursoBank customer base expanded to 6.5 million clients, solidifying #1 French online bank position"
+        },
+        {
+          "company": "Sparkassen-Finanzgruppe (DSGV)",
+          "justification": "Managing digital banking apps for over 40 million German consumers"
+        },
+        {
+          "company": "Sumitomo Mitsui Financial Group, Inc. (SMFG)",
+          "justification": "Olive digital retail app onboarded over 3 million users in Japan"
+        },
+        {
+          "company": "Swedbank AB",
+          "justification": "Top-decile efficiency ratio of 34.5% achieved via digital mobile app adoption across Sweden and Baltics"
+        },
+        {
+          "company": "Synchrony Financial",
+          "justification": "Automated point-of-sale digital financing integration"
+        },
+        {
+          "company": "Fifth Third Bancorp (The Fifth Third Bank)",
+          "justification": "Commercial lending and digital deposit growth expanded efficiency ratio to 55.4%"
+        },
+        {
+          "company": "TransUnion LLC",
+          "justification": "Digital identity resolution engines integrated into retail onboarding"
+        },
+        {
+          "company": "UniCredit S.p.A.",
+          "justification": "Industry-leading efficiency ratio of 36.1% achieved through digital branch rationalization and cloud core migration"
+        },
+        {
+          "company": "United Overseas Bank Limited (UOB)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "The Vanguard Group, Inc.",
+          "justification": "Managing digital portals for 50 million global investors"
+        },
+        {
+          "company": "Wells Fargo & Company",
+          "justification": "Active mobile customers expanded to 35 million with Fargo AI care assistant usage scaling"
+        },
+        {
+          "company": "Western Alliance Bancorporation",
+          "justification": "Commercial deposit growth expanded 15% YoY supported by specialized digital industry banking portals"
+        }
+      ],
+      "company_count": 61
+    },
+    {
+      "trend_id": "banking_t2",
+      "trend_name": "Modernize Payments",
+      "supporting_companies": [
+        {
+          "company": "ABN AMRO Bank N.V.",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Advent International Corporation",
+          "justification": "35% of invested capital targeted at fintech, merchant acquiring, and payment software firms"
+        },
+        {
+          "company": "Ally Financial Inc.",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "American Securities LLC",
+          "justification": "Automating B2B payment workflows across portfolio companies"
+        },
+        {
+          "company": "Australia and New Zealand Banking Group (ANZ)",
+          "justification": "Migration to real-time NPP payments infrastructure across Australia and NZ"
+        },
+        {
+          "company": "Banco Bradesco S.A.",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Banco do Brasil S.A.",
+          "justification": "Rapid processing volume growth on Brazil's Pix instant payment network"
+        },
+        {
+          "company": "Barclays PLC",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Banco Bilbao Vizcaya Argentaria, S.A. (BBVA)",
+          "justification": "Automated digital payment processing across Mexico and Spain"
+        },
+        {
+          "company": "BDO Unibank, Inc. (BDO Bank Philippines)",
+          "justification": "Processing digital merchant payments across the Philippines"
+        },
+        {
+          "company": "Caisse des D\u00e9p\u00f4ts et Consignations (CDC Group)",
+          "justification": "Processing secure public fund transfers and municipal payments"
+        },
+        {
+          "company": "Citigroup Inc.",
+          "justification": "Treasury & Trade Solutions revenue rose 8% YoY to $5.0 billion, driving group profitability"
+        },
+        {
+          "company": "Cr\u00e9dit Mutuel Ark\u00e9a",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "DBS Group Holdings Ltd.",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "De Nederlandsche Bank N.V. (DNB)",
+          "justification": "Leading Dutch clearing infrastructure modernization and Digital Euro technical pilots"
+        },
+        {
+          "company": "Discover Financial Services",
+          "justification": "Discover Global Network and PULSE debit network expanded processing volume"
+        },
+        {
+          "company": "Euroclear Bank S.A./N.V.",
+          "justification": "Processing cross-border cash clearing and securities settlement"
+        },
+        {
+          "company": "European Central Bank (ECB)",
+          "justification": "Leading the Digital Euro preparation phase and TARGET instant payment settlement oversight"
+        },
+        {
+          "company": "First Abu Dhabi Bank PJSC (FAB)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Fiserv, Inc.",
+          "justification": "Clover processing volume expanded 28% YoY, driving Merchant Solutions operating margin to 40.2%"
+        },
+        {
+          "company": "Global Payments Inc.",
+          "justification": "Operating margin reached 45.6% driven by B2B corporate payment software and Issuer Solutions growth"
+        },
+        {
+          "company": "Grupo Financiero Banorte, S.A.B. de C.V.",
+          "justification": "Rapid processing growth on Mexican instant payment network SPEI"
+        },
+        {
+          "company": "HSBC Holdings plc",
+          "justification": "Global payment processing volume expanded across Asia-Europe trade corridors"
+        },
+        {
+          "company": "ING Groep N.V.",
+          "justification": "Automated digital payment processing across European retail markets"
+        },
+        {
+          "company": "JPMorgan Chase & Co. (JPMC)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "KBC Groep NV",
+          "justification": "Processing instant digital payments across Belgium and CEE"
+        },
+        {
+          "company": "CaixaBank, S.A. (La Caixa)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Mitsubishi UFJ Financial Group, Inc. (MUFG)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Mizuho Financial Group, Inc.",
+          "justification": "Modernizing trade finance processing across Asian trade corridors"
+        },
+        {
+          "company": "National Australia Bank Limited (NAB)",
+          "justification": "Automated real-time merchant payment processing"
+        },
+        {
+          "company": "National Savings and Investments (NS&I)",
+          "justification": "Processing secure direct government deposit payouts"
+        },
+        {
+          "company": "Nexi S.p.A.",
+          "justification": "EBITDA margin reached 53.9% driven by digital merchant acquiring and point-of-sale terminal scale"
+        },
+        {
+          "company": "National Stock Exchange of India (NSE)",
+          "justification": "Automated real-time trade clearing and multi-asset clearing settlement"
+        },
+        {
+          "company": "Rabobank (Co\u00f6peratieve Rabobank U.A.)",
+          "justification": "Automated B2B agricultural trade financing and clearing"
+        },
+        {
+          "company": "Banco Santander, S.A.",
+          "justification": "Autonomous merchant processing through PagoNxt fintech unit"
+        },
+        {
+          "company": "SIX Group AG",
+          "justification": "Processing real-time Swiss interbank clearing via SIC platform"
+        },
+        {
+          "company": "Sparkassen-Finanzgruppe (DSGV)",
+          "justification": "Processing real-time girocard payment transactions across Germany"
+        },
+        {
+          "company": "Standard Chartered PLC",
+          "justification": "Cross-border trade finance transaction volume expanded across Asia, Africa, and Middle East corridors"
+        },
+        {
+          "company": "Sumitomo Mitsui Financial Group, Inc. (SMFG)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "SWIFT (Society for Worldwide Interbank Financial Telecommunication)",
+          "justification": "Processing 45M+ daily interbank messaging transactions and driving ISO 20022 migration"
+        },
+        {
+          "company": "Synchrony Financial",
+          "justification": "Processing credit card transactions across 70M+ active accounts with 15.05% NIM"
+        },
+        {
+          "company": "The Bank of New York Mellon Corporation (BNY Mellon)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Fifth Third Bancorp (The Fifth Third Bank)",
+          "justification": "Processing commercial Treasury Management payments across the US Midwest and Southeast"
+        },
+        {
+          "company": "United Overseas Bank Limited (UOB)",
+          "justification": "Credit card processing fees expanded 21% YoY"
+        },
+        {
+          "company": "Western Alliance Bancorporation",
+          "justification": "Processing real-time commercial payments across mortgage and tech verticals"
+        }
+      ],
+      "company_count": 45
+    },
+    {
+      "trend_id": "banking_t3",
+      "trend_name": "Innovate Wealth Management",
+      "supporting_companies": [
+        {
+          "company": "Advent International Corporation",
+          "justification": "Expanding private equity access to institutional wealth channels"
+        },
+        {
+          "company": "Banca Popolare dell'Emilia Romagna (BPER Banca)",
+          "justification": "Wealth management fees grew 12% YoY"
+        },
+        {
+          "company": "Bank of Ireland Group plc",
+          "justification": "Wealth & Insurance division contributed 20% of group profits"
+        },
+        {
+          "company": "BNP Paribas S.A.",
+          "justification": "IPS division wealth management assets expanded via digital distribution"
+        },
+        {
+          "company": "Groupe BPCE",
+          "justification": "Natixis Investment Managers expanded global AUM to \u20ac1.25 trillion"
+        },
+        {
+          "company": "Citigroup Inc.",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Cr\u00e9dit Agricole Group",
+          "justification": "Amundi AUM reached record \u20ac2.16 trillion, driving asset gathering fee expansion"
+        },
+        {
+          "company": "UBS Group AG / Credit Suisse",
+          "justification": "Global Wealth Management invested asset base reached $4.0 trillion, driving quarterly fee expansion"
+        },
+        {
+          "company": "DBS Group Holdings Ltd.",
+          "justification": "Wealth Management fee income expanded 31% YoY to record levels"
+        },
+        {
+          "company": "Fidelity Investments, Inc.",
+          "justification": "Total AUA expanded to $14.1 trillion driven by digital wealth app adoption and low-cost index funds"
+        },
+        {
+          "company": "First Command Financial Services, Inc.",
+          "justification": "Client AUM expanded to $42 billion through specialized military financial planning software"
+        },
+        {
+          "company": "The Goldman Sachs Group, Inc.",
+          "justification": "Asset & Wealth Management revenues rose 16% YoY with alternative fundraising reaching $16 billion"
+        },
+        {
+          "company": "HSBC Holdings plc",
+          "justification": "Wealth fee income expanded 14% YoY driven by Asia wealth flows and digital wealth app deployment"
+        },
+        {
+          "company": "Intesa Sanpaolo S.p.A.",
+          "justification": "Eurizon and Fideuram wealth management divisions generated 22% of group income"
+        },
+        {
+          "company": "Jacobs Stiftung (Jacobs Foundation)",
+          "justification": "Managing endowment asset allocation across global equity, private equity, and impact funds"
+        },
+        {
+          "company": "JPMorgan Chase & Co. (JPMC)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "KBC Groep NV",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "CaixaBank, S.A. (La Caixa)",
+          "justification": "VidaCaixa insurance and wealth assets expanded fee revenues by 12% YoY"
+        },
+        {
+          "company": "Lloyds Banking Group plc",
+          "justification": "Expanding Scottish Widows digital pension and investment integration"
+        },
+        {
+          "company": "LPL Financial Holdings Inc.",
+          "justification": "Total client assets expanded 28% YoY to $1.60 trillion, driving advisory fee growth up 24%"
+        },
+        {
+          "company": "Mizuho Financial Group, Inc.",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Morgan Stanley",
+          "justification": "Wealth Management generated 47% of revenue with client assets expanding to $7.5 trillion"
+        },
+        {
+          "company": "Nordea Bank Abp",
+          "justification": "Asset & Wealth Management AUM expanded to record \u20ac401 billion"
+        },
+        {
+          "company": "Royal Bank of Canada (RBC)",
+          "justification": "Wealth Management division generated 24% of group net income with fee income expanding 18% YoY"
+        },
+        {
+          "company": "SEI Investments Company",
+          "justification": "SEI Wealth Platform assets under processing expanded 12% YoY, driving operating margin to 28.2%"
+        },
+        {
+          "company": "Standard Chartered PLC",
+          "justification": "Wealth Solutions fee revenue expanded 32% YoY driven by Asian affluent inflows"
+        },
+        {
+          "company": "The Bank of New York Mellon Corporation (BNY Mellon)",
+          "justification": "Wealth Management assets reached $2.1 trillion"
+        },
+        {
+          "company": "United Overseas Bank Limited (UOB)",
+          "justification": "Wealth management fee income expanded 16% YoY supported by Citigroup ASEAN retail acquisition"
+        },
+        {
+          "company": "The Vanguard Group, Inc.",
+          "justification": "Global AUM reached record $9.3 trillion supported by digital robo-advisory and low-cost index platforms"
+        }
+      ],
+      "company_count": 29
+    },
+    {
+      "trend_id": "banking_t4",
+      "trend_name": "Optimize Financial Crime & Compliance",
+      "supporting_companies": [
+        {
+          "company": "ABN AMRO Bank N.V.",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Ally Financial Inc.",
+          "justification": "Automated auto loan credit decisioning reduced underwriting cycle times"
+        },
+        {
+          "company": "American Securities LLC",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Banca Popolare dell'Emilia Romagna (BPER Banca)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Banco Bradesco S.A.",
+          "justification": "AI credit underwriting reduced NPL provisions"
+        },
+        {
+          "company": "Banco do Brasil S.A.",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Bank of Ireland Group plc",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Barclays PLC",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Banco Bilbao Vizcaya Argentaria, S.A. (BBVA)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "BDO Unibank, Inc. (BDO Bank Philippines)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "BNP Paribas S.A.",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Bank of Queensland (BOQ)",
+          "justification": "Executing Remediation and Anti-Money Laundering compliance programs under APRA oversight"
+        },
+        {
+          "company": "Caisse des D\u00e9p\u00f4ts et Consignations (CDC Group)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Citigroup Inc.",
+          "justification": "Executing Consent Order transformation targeting automated regulatory reporting engines"
+        },
+        {
+          "company": "Cr\u00e9dit Mutuel Ark\u00e9a",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "De Nederlandsche Bank N.V. (DNB)",
+          "justification": "Overseeing anti-money laundering compliance across Dutch institutions"
+        },
+        {
+          "company": "Deutsche Bank AG",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Discover Financial Services",
+          "justification": "Upgrading card misclassification remediation and AML compliance controls"
+        },
+        {
+          "company": "European Central Bank (ECB)",
+          "justification": "Executing SSM supervisory risk assessments across Eurozone banking institutions"
+        },
+        {
+          "company": "ICCREA Banca S.p.A. (Gruppo BCC Iccrea)",
+          "justification": "Centralizing AML compliance and credit risk engines for mutual banks"
+        },
+        {
+          "company": "Jacobs Stiftung (Jacobs Foundation)",
+          "justification": "Executing ESG compliance and governance checks across endowment investments"
+        },
+        {
+          "company": "KBC Groep NV",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "LendingClub Corporation",
+          "justification": "Automated AI underwriting models stabilized credit loss performance"
+        },
+        {
+          "company": "Lloyds Banking Group plc",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "National Savings and Investments (NS&I)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Nordea Bank Abp",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "National Stock Exchange of India (NSE)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Rabobank (Co\u00f6peratieve Rabobank U.A.)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "SCHUFA Holding AG",
+          "justification": "Managing credit scoring and identity verification data for over 68 million German consumers"
+        },
+        {
+          "company": "SK Capital Partners LP",
+          "justification": "Executing ESG and chemical regulatory compliance frameworks"
+        },
+        {
+          "company": "Swedbank AB",
+          "justification": "Centralizing automated AML monitoring platforms"
+        },
+        {
+          "company": "SWIFT (Society for Worldwide Interbank Financial Telecommunication)",
+          "justification": "Providing automated Sanctions Screening and Payment Controls for member banks"
+        },
+        {
+          "company": "TransUnion LLC",
+          "justification": "Managing credit risk scoring, fraud detection, and identity verification platforms across global banks"
+        },
+        {
+          "company": "Wells Fargo & Company",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        }
+      ],
+      "company_count": 34
+    },
+    {
+      "trend_id": "banking_t5",
+      "trend_name": "Transform Capital Markets",
+      "supporting_companies": [
+        {
+          "company": "Advent International Corporation",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Australia and New Zealand Banking Group (ANZ)",
+          "justification": "Institutional Banking markets division generated 38% of group profits via automated FX and rates trading"
+        },
+        {
+          "company": "Barclays PLC",
+          "justification": "Barclays Investment Bank trading revenue drove a 18% YoY surge in Q3 group net profit"
+        },
+        {
+          "company": "BNP Paribas S.A.",
+          "justification": "CIB equity trading revenues expanded 13% YoY, driving Q3 group earnings beat"
+        },
+        {
+          "company": "Groupe BPCE",
+          "justification": "Natixis CIB generated 28% of group revenues through investment banking and green finance"
+        },
+        {
+          "company": "Cr\u00e9dit Agricole Group",
+          "justification": "CACIB capital markets revenue expanded 14% YoY"
+        },
+        {
+          "company": "UBS Group AG / Credit Suisse",
+          "justification": "Investment Bank equities and FX trading revenues expanded 15% YoY"
+        },
+        {
+          "company": "De Nederlandsche Bank N.V. (DNB)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Deutsche Bank AG",
+          "justification": "Investment Bank origination fees expanded 24% YoY, fueling Q3 profit recovery"
+        },
+        {
+          "company": "Euroclear Bank S.A./N.V.",
+          "justification": "Assets under custody reached \u20ac38.5 trillion with \u20ac540T in settlement turnover"
+        },
+        {
+          "company": "First Abu Dhabi Bank PJSC (FAB)",
+          "justification": "Investment Banking generated 38% of group revenue through regional debt issuance and trade finance"
+        },
+        {
+          "company": "The Goldman Sachs Group, Inc.",
+          "justification": "Global Banking & Markets generated 70% of revenue driven by equity trading and M&A advisory expansion"
+        },
+        {
+          "company": "HSBC Holdings plc",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Intesa Sanpaolo S.p.A.",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "JPMorgan Chase & Co. (JPMC)",
+          "justification": "CIB investment banking fees expanded 31% YoY, solidifying #1 global franchise position"
+        },
+        {
+          "company": "LendingClub Corporation",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "LPL Financial Holdings Inc.",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "Mitsubishi UFJ Financial Group, Inc. (MUFG)",
+          "justification": "GCIB and Morgan Stanley alliance generated 32% of group profits via global debt underwriting"
+        },
+        {
+          "company": "Mizuho Financial Group, Inc.",
+          "justification": "Corporate & Institutional Banking generated 52% of profit through syndicate underwriting and FX trading"
+        },
+        {
+          "company": "Morgan Stanley",
+          "justification": "Institutional Securities equity trading revenues expanded 21% YoY"
+        },
+        {
+          "company": "National Stock Exchange of India (NSE)",
+          "justification": "World's largest derivatives exchange by volume, generating 72.5% operating margin"
+        },
+        {
+          "company": "Royal Bank of Canada (RBC)",
+          "justification": "Corporate & Investment Bank revenues expanded 14% YoY"
+        },
+        {
+          "company": "SIX Group AG",
+          "justification": "Operating SIX Digital Exchange SDX and core clearing for Swiss & Spanish exchanges"
+        },
+        {
+          "company": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale S.A.",
+          "justification": "GBIS equities and derivatives trading revenues expanded 10% YoY"
+        },
+        {
+          "company": "Sumitomo Mitsui Financial Group, Inc. (SMFG)",
+          "justification": "Wholesale and Global Banking generated 62% of net profit driven by debt underwriting and trade finance"
+        },
+        {
+          "company": "SWIFT (Society for Worldwide Interbank Financial Telecommunication)",
+          "justification": "(justification embedded in narrative text - see full company record)"
+        },
+        {
+          "company": "The Bank of New York Mellon Corporation (BNY Mellon)",
+          "justification": "AUC/A reached record $52.1 trillion, driving Securities Services fee expansion"
+        },
+        {
+          "company": "UniCredit S.p.A.",
+          "justification": "German and Italian corporate trade finance fee expansion"
+        },
+        {
+          "company": "Wells Fargo & Company",
+          "justification": "CIB investment banking fees expanded 37% YoY"
+        }
+      ],
+      "company_count": 29
+    }
+  ]
+}

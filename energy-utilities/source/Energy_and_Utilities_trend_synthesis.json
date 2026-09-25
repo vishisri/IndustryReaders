@@ -1,0 +1,473 @@
+{
+  "industry": "Energy and Utilities",
+  "methodology_note": "Real per-company synthesis built 2026-09-22 from the priority_tags already assigned to each company in the research (plus the justification text where recoverable from the source narrative). This replaces the prior 'not yet independently evidence-graded' placeholder trend_seed for this industry. Not yet included: a qualitative financial-reality-check narrative (winners vs. losers within each trend, matching Auto's t1-t5 depth) - that's a separate follow-on synthesis pass, not fabricated here. Companies with no priority tags on file: 1",
+  "trends": [
+    {
+      "trend_id": "energy_and_utilities_t1",
+      "trend_name": "Integrated Power",
+      "supporting_companies": [
+        {
+          "company": "BP plc (Beyond Petroleum)",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "TotalEnergies SE",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "SFEF Energy Limited",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "E.ON SE",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Enel S.p.A.",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Engie SA",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "RWE AG",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "SSE plc",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Vattenfall AB",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Exelon Corporation",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Eversource Energy",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Consolidated Edison, Inc. (ConEd)",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "FirstEnergy Corp.",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Cleco Corporate Holdings LLC",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Fortis Inc.",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Naturgy Energy Group S.A. (Gas Natural Fenosa)",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "National Grid plc",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "TenneT Holding B.V.",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Alliander N.V.",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "EnBW Energie Baden-W\u00fcrttemberg AG (Ineco)",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Western Power Distribution plc (National Grid Electricity Distribution)",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "SA Power Networks",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Smart Dec",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "The Retail Energy Code Company (RECCO)",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Scottish Water",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Water Corporation (Western Australia)",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Itron, Inc.",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Elexxion Energy",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        }
+      ],
+      "company_count": 28
+    },
+    {
+      "trend_id": "energy_and_utilities_t2",
+      "trend_name": "Oil & Gas Operational Efficiency",
+      "supporting_companies": [
+        {
+          "company": "Saudi Aramco (Saudi Arabian Oil Company)",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "BP plc (Beyond Petroleum)",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "ExxonMobil Corporation",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Equinor ASA",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Eni S.p.A.",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Repsol S.A.",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "ConocoPhillips",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Phillips 66",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Neste Oyj",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Cargill, Incorporated",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "CHS Inc.",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Louis Dreyfus Company (Louis Dreyfus Holding B.V.)",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Smart Dec",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Baker Hughes Company",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "SBM Offshore N.V.",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "TechnipFMC plc",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Technicomate",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        }
+      ],
+      "company_count": 17
+    },
+    {
+      "trend_id": "energy_and_utilities_t3",
+      "trend_name": "Nuclear",
+      "supporting_companies": [
+        {
+          "company": "\u00c9lectricit\u00e9 de France (EDF)",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Vattenfall AB",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Entergy Corporation",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Nuclear Decommissioning Authority (NDA)",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Urenco Ltd.",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        }
+      ],
+      "company_count": 5
+    },
+    {
+      "trend_id": "energy_and_utilities_t4",
+      "trend_name": "Capital Projects",
+      "supporting_companies": [
+        {
+          "company": "Saudi Aramco (Saudi Arabian Oil Company)",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "ConocoPhillips",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Teck Resources Limited",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Rio Tinto",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "\u00c9lectricit\u00e9 de France (EDF)",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "E.ON SE",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Enel S.p.A.",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Engie SA",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "RWE AG",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "SSE plc",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Entergy Corporation",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Exelon Corporation",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Eversource Energy",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Consolidated Edison, Inc. (ConEd)",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "FirstEnergy Corp.",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Cleco Corporate Holdings LLC",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Fortis Inc.",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Urenco Ltd.",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "National Grid plc",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "TenneT Holding B.V.",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Alliander N.V.",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Stedin Holding N.V.",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "EnBW Energie Baden-W\u00fcrttemberg AG (Ineco)",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Sempra Energy Inc.",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Western Power Distribution plc (National Grid Electricity Distribution)",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "SA Power Networks",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Entera",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Anglian Water",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Scottish Water",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Severn Trent Water Ltd.",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "SAUR (Holding Saur SAS)",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Water Corporation (Western Australia)",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "TMVW (Tussengemeentelijke Maatschappij der Vlaanderen voor Watervoorziening / Farris)",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Schlumberger Limited (SLB)",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Halliburton Company",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "SBM Offshore N.V.",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "TechnipFMC plc",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Enbridge Inc.",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Elexxion Energy",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Technicomate",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "TMVW CVBA (Duplicate/Associated Entity)",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        }
+      ],
+      "company_count": 41
+    },
+    {
+      "trend_id": "energy_and_utilities_t5",
+      "trend_name": "Value Chains of the Future",
+      "supporting_companies": [
+        {
+          "company": "Eni S.p.A.",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Repsol S.A.",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Phillips 66",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Neste Oyj",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Teck Resources Limited",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Rio Tinto",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Cargill, Incorporated",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "CHS Inc.",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Louis Dreyfus Company (Louis Dreyfus Holding B.V.)",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "JERA Co., Inc.",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "N.V. Nederlandse Gasunie",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Sempra Energy Inc.",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Anglian Water",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Severn Trent Water Ltd.",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "SAUR (Holding Saur SAS)",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Baker Hughes Company",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        },
+        {
+          "company": "Enbridge Inc.",
+          "justification": "(justification text not separately extractable - see full company record for context)"
+        }
+      ],
+      "company_count": 17
+    }
+  ]
+}
